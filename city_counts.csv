@@ -1,0 +1,5470 @@
+City,count
+上海市,542
+Seoul,242
+北京市,234
+New York,232
+London,216
+Toronto,192
+Mexico City,180
+Chicago,180
+Las Vegas,156
+Seattle,156
+Houston,154
+Istanbul,144
+Vancouver,141
+서울,136
+San Diego,135
+Calgary,130
+Singapore,127
+Los Angeles,127
+Taipei City,126
+Jakarta,123
+杭州市,117
+Portland,117
+深圳市,113
+广州市,106
+Phoenix,105
+Hong Kong,104
+成都市,98
+Dallas,93
+San Jose,91
+苏州市,90
+San Francisco,89
+Washington,89
+Santiago,83
+Edmonton,81
+San Antonio,80
+Dubai,78
+Denver,78
+Moscow,77
+Buenos Aires,74
+مدينة الكويت,74
+南京市,73
+Bangkok,73
+Lima,69
+Richmond,67
+武汉市,67
+Busan,67
+Dublin,65
+Sacramento,63
+Atlanta,63
+Paris,61
+Kuala Lumpur,61
+New Taipei City,60
+Boston,60
+Montreal,59
+宁波市,59
+Tucson,59
+Charlotte,59
+Austin,59
+天津市,58
+Miami,55
+Indianapolis,55
+Columbus,53
+Winnipeg,49
+Sao Paulo,48
+Yokohama,48
+Madrid,47
+Orlando,47
+Philadelphia,47
+Osaka,46
+Quezon City,46
+Arlington,46
+Nagoya,45
+Ankara,45
+Abu Dhabi,43
+Ottawa,43
+Chiyoda-ku,42
+Taichung City,42
+Colorado Springs,42
+Tampa,42
+Pittsburgh,42
+重庆市,41
+无锡市,40
+西安市,40
+Jacksonville,40
+Scottsdale,40
+Honolulu,40
+Springfield,40
+Aurora,39
+Mississauga,39
+Cincinnati,39
+Minato-ku,38
+Daegu,38
+Guadalajara,38
+Monterrey,38
+Brooklyn,38
+Glendale,37
+Mesa,37
+Albuquerque,37
+Manchester,36
+Fresno,36
+Birmingham,35
+Makati City,35
+Bakersfield,35
+Bellevue,35
+Spokane,35
+佛山市,33
+Kaohsiung City,33
+Long Beach,33
+Louisville,33
+Baltimore,33
+Mumbai,32
+Fort Worth,32
+Victoria,31
+厦门市,31
+东莞市,31
+Mexico,31
+Tainan City,31
+Virginia Beach,31
+Surrey,30
+Burlington,30
+Daejeon,30
+Fukuoka,29
+Incheon,29
+Lakewood,29
+Roseville,29
+Kansas City,29
+Columbia,29
+Omaha,29
+青岛市,28
+Shibuya-ku,28
+Tempe,28
+Alexandria,28
+Gwangju,27
+Pasadena,27
+Raleigh,27
+Reno,27
+Salt Lake City,27
+Tacoma,27
+常州市,26
+长沙市,26
+Kyoto,26
+Chandler,26
+Irvine,26
+Lexington,26
+Burnaby,25
+大连市,25
+Petaling Jaya,25
+Westminster,25
+Henderson,25
+沈阳市,24
+Shinjuku-ku,24
+경기도,24
+Anchorage,24
+Riverside,24
+Grand Rapids,24
+Cambridge,23
+福州市,23
+Athens,23
+Sapporo,23
+Oakland,23
+Littleton,23
+Greenville,23
+Boise,23
+Memphis,23
+Nashville,23
+Plano,23
+Concord,22
+Tulsa,22
+Zurich,21
+南通市,21
+昆明市,21
+Kobe,21
+Riyadh,21
+Auburn,21
+Burbank,21
+Santa Monica,21
+Santa Rosa,21
+Gainesville,21
+Everett,21
+Minneapolis,21
+El Paso,21
+Milwaukee,21
+Rio de Janeiro,20
+温州市,20
+Barcelona,20
+Durham,20
+Edinburgh,20
+Newark,20
+Santa Ana,20
+Izmir,20
+Peoria,20
+Eugene,20
+Lynnwood,20
+Kowloon,19
+Kent,19
+Norfolk,19
+Manila,19
+Albany,19
+Anaheim,19
+Huntington Beach,19
+Modesto,19
+Wilmington,19
+Sarasota,19
+Cleveland,19
+Wichita,19
+Salem,19
+Greensboro,19
+Redmond,19
+绍兴市,18
+合肥市,18
+郑州市,18
+Praha,18
+Cairo,18
+Pasig City,18
+Taguig City,18
+الرياض,18
+Costa Mesa,18
+Orange,18
+Stockton,18
+Torrance,18
+Charleston,18
+Rochester,18
+Knoxville,18
+Lincoln,17
+Oxford,17
+Glasgow,17
+Chuo-ku,17
+Antalya,17
+Taoyuan City,17
+Madison,17
+Gilbert,17
+Bloomington,17
+Cary,17
+Franklin,17
+St. Louis,17
+Katy,17
+Thành Phố Hồ Chí Minh,17
+济南市,16
+Lancaster,16
+Budapest,16
+Surabaya,16
+New Delhi,16
+Setagaya-ku,16
+부산,16
+Ulsan,16
+Amsterdam,16
+Muang,16
+Hsinchu City,16
+Fayetteville,16
+Little Rock,16
+Escondido,16
+Fremont,16
+Lafayette,16
+San Marcos,16
+Walnut Creek,16
+Frisco,16
+Fort Lauderdale,16
+Naples,16
+Alpharetta,16
+Canton,16
+Fort Wayne,16
+Medford,16
+Fairfax,16
+Renton,16
+Kelowna,15
+Niagara Falls,15
+Windsor,15
+昆山市,15
+Brighton,15
+Bristol,15
+Cardiff,15
+Chiba,15
+Bucharest,15
+Fairfield,15
+Jackson,15
+Santa Clara,15
+Boulder,15
+Fort Myers,15
+Savannah,15
+Oklahoma City,15
+Spring,15
+North Vancouver,14
+Kirkland,14
+Saskatoon,14
+哈尔滨,14
+嘉兴市,14
+珠海市,14
+BERLIN,14
+Tangerang,14
+Sendai,14
+Seongnam,14
+Cancun,14
+San Juan,14
+Warszawa,14
+Carmel,14
+Newport Beach,14
+Oceanside,14
+Santa Clarita,14
+Thousand Oaks,14
+Fort Collins,14
+Grand Junction,14
+Boca Raton,14
+Tallahassee,14
+Duluth,14
+Marietta,14
+Overland Park,14
+Troy,14
+Bellingham,14
+Puyallup,14
+Wien,13
+Woodbridge,13
+泉州市,13
+Macau,13
+Liverpool,13
+Saitama,13
+Koto-ku,13
+Hamamatsu,13
+Penang,13
+San Mateo,13
+Saint Petersburg,13
+El Cajon,13
+Fullerton,13
+Ontario,13
+Rancho Cucamonga,13
+Temecula,13
+Ventura,13
+New Orleans,13
+Ann Arbor,13
+Bronx,13
+Beaverton,13
+Hillsboro,13
+Myrtle Beach,13
+Sterling,13
+Abbotsford,12
+Langley,12
+Bedford,12
+Halifax,12
+Brampton,12
+Kingston,12
+Oakville,12
+Waterloo,12
+扬州市,12
+湖州市,12
+南宁市,12
+Mansfield,12
+Sheffield,12
+York,12
+Aberdeen,12
+Beirut,12
+Puebla,12
+Mandaluyong City,12
+Jeddah,12
+Patumwan,12
+Wattana,12
+Bursa,12
+Huntsville,12
+Chula Vista,12
+Corona,12
+Cypress,12
+Folsom,12
+Hayward,12
+Marysville,12
+Salinas,12
+Vista,12
+Longmont,12
+Naperville,12
+Schaumburg,12
+Rockville,12
+Asheville,12
+Winston-Salem,12
+Bend,12
+Chesapeake,12
+Falls Church,12
+Bothell,12
+Issaquah,12
+Santa Fe,11
+New Westminster,11
+Hamilton,11
+台州市,11
+金华市,11
+南昌市,11
+中山市,11
+FRANKFURT AM MAIN,11
+Valencia,11
+Brentwood,11
+Newcastle,11
+Belfast,11
+Toshima-ku,11
+Leon,11
+Johor Bahru,11
+Auckland,11
+Doha,11
+Carlsbad,11
+Clovis,11
+Elk Grove,11
+Hollywood,11
+Lake Forest,11
+Livermore,11
+Mountain View,11
+Norwalk,11
+Palo Alto,11
+Sunnyvale,11
+Englewood,11
+Thornton,11
+Augusta,11
+Lawrenceville,11
+Hanover,11
+Silver Spring,11
+Dayton,11
+Lake Oswego,11
+Tigard,11
+Lubbock,11
+The Woodlands,11
+Williamsburg,11
+Yakima,11
+Nassau,10
+Kamloops,10
+Brandon,10
+Markham,10
+Richmond Hill,10
+Vaughan,10
+Quebec,10
+长春市,10
+MUENCHEN,10
+Chesterfield,10
+Leeds,10
+Newport,10
+Plymouth,10
+Reading,10
+Bandung,10
+Bangalore,10
+Shinagawa-ku,10
+Kawasaki,10
+Hiroshima,10
+seoul,10
+Seongnam-si,10
+Tijuana,10
+Makati,10
+جدة,10
+Florence,10
+Mobile,10
+Flagstaff,10
+Surprise,10
+Garden Grove,10
+Milpitas,10
+Mission Viejo,10
+Palm Desert,10
+Pomona,10
+Redding,10
+Redwood City,10
+Simi Valley,10
+Visalia,10
+Woodland Hills,10
+Avon,10
+Monroe,10
+Clearwater,10
+Kennesaw,10
+Greenwood,10
+Gaithersburg,10
+Germantown,10
+Detroit,10
+Staten Island,10
+Sioux Falls,10
+Murfreesboro,10
+Denton,10
+Flower Mound,10
+Humble,10
+Fredericksburg,10
+McLean,10
+Olympia,10
+Melbourne,9
+Coquitlam,9
+Milton,9
+Woodstock,9
+镇江市,9
+海口市,9
+Nottingham,9
+Portsmouth,9
+Warwick,9
+Bogor,9
+Medan,9
+Amman,9
+Machida,9
+인천,9
+Mexico DF,9
+Subang Jaya,9
+Kota Kinabalu,9
+Pasay City,9
+Cebu City,9
+RIYADH,9
+Decatur,9
+Parker,9
+Brea,9
+Davis,9
+Fontana,9
+La Jolla,9
+Napa,9
+Palmdale,9
+Pleasanton,9
+Rancho Cordova,9
+Rocklin,9
+San Luis Obispo,9
+San Ramon,9
+Santa Barbara,9
+Tustin,9
+Vacaville,9
+Van Nuys,9
+Arvada,9
+Highlands Ranch,9
+Miami Beach,9
+Pensacola,9
+West Palm Beach,9
+Cedar Rapids,9
+Des Moines,9
+Wheaton,9
+Lawrence,9
+Independence,9
+Baton Rouge,9
+Amherst,9
+Annapolis,9
+Bethesda,9
+Holland,9
+Edina,9
+St Louis,9
+Billings,9
+Wayne,9
+Sparks,9
+Akron,9
+Sandy,9
+Providence,9
+Allen,9
+College Station,9
+Longview,9
+McAllen,9
+Round Rock,9
+Charlottesville,9
+Reston,9
+Federal Way,9
+Al Ain,8
+Martinez,8
+Manama,8
+Grand Prairie,8
+Red Deer,8
+Chilliwack,8
+Regina,8
+太原市,8
+烟台市,8
+贵阳,8
+HAMBURG,8
+Chester,8
+Shrewsbury,8
+Winchester,8
+Bali,8
+Pune,8
+Tsukuba,8
+Utsunomiya,8
+Goyang,8
+Suwon,8
+Georgetown,8
+Selangor,8
+San Pedro,8
+Adana,8
+Istanbul - Avrupa,8
+Kocaeli,8
+Montgomery,8
+Yuma,8
+Antioch,8
+Carson,8
+Chico,8
+Cupertino,8
+Danville,8
+Encinitas,8
+Murrieta,8
+Oxnard,8
+Palm Springs,8
+Petaluma,8
+Redlands,8
+Whittier,8
+Castle Rock,8
+Centennial,8
+Erie,8
+Greeley,8
+Loveland,8
+Farmington,8
+Middletown,8
+Bradenton,8
+Lakeland,8
+Carrollton,8
+Roswell,8
+Elmhurst,8
+Evanston,8
+Rockford,8
+Olathe,8
+Bowling Green,8
+Webster,8
+Mount Pleasant,8
+Novi,8
+St. Paul,8
+Woodbury,8
+Cherry Hill,8
+North Las Vegas,8
+Brookfield,8
+Jamaica,8
+Toledo,8
+King of Prussia,8
+Garland,8
+Grapevine,8
+Irving,8
+League City,8
+Lewisville,8
+Richardson,8
+Tukwila,8
+Cordoba,7
+Brussels,7
+Santa Cruz,7
+Campinas,7
+Beaumont,7
+Nanaimo,7
+Vernon,7
+West Vancouver,7
+Guelph,7
+Geneve,7
+石家庄,7
+徐州市,7
+泰州市,7
+惠州市,7
+New Territories,7
+Lyon,7
+Coventry,7
+Leicester,7
+Southampton,7
+Gurgaon,7
+عمان,7
+Koshigaya,7
+Bunkyo-ku,7
+Hachioji,7
+Meguro-ku,7
+Shizuoka,7
+Suita,7
+Okayama,7
+Bucheon,7
+Changwon,7
+Casablanca,7
+Puerto Vallarta,7
+Naucalpan,7
+Toluca,7
+Playa del Carmen,7
+Culiacan,7
+Oslo,7
+Muntinlupa City,7
+Saint-Petersburg,7
+Bangrak,7
+Zhongli City,7
+Prescott,7
+Queen Creek,7
+Alameda,7
+Buena Park,7
+Camarillo,7
+Campbell,7
+Cerritos,7
+Chino,7
+El Segundo,7
+La Mesa,7
+Menlo Park,7
+Morgan Hill,7
+Northridge,7
+Pittsburg,7
+Pleasant Hill,7
+Rancho Santa Margarita,7
+Redondo Beach,7
+Rohnert Park,7
+San Bernardino,7
+San Clemente,7
+San Rafael,7
+Santa Maria,7
+Sherman Oaks,7
+Turlock,7
+Vallejo,7
+Victorville,7
+West Hollywood,7
+Broomfield,7
+Edgewater,7
+Frederick,7
+Golden,7
+Greenwood Village,7
+Wheat Ridge,7
+Milford,7
+Stamford,7
+Coral Springs,7
+Garden City,7
+Niles,7
+Orland Park,7
+Clarksville,7
+Elkhart,7
+Fishers,7
+Covington,7
+Shreveport,7
+Bowie,7
+Towson,7
+Midland,7
+Sterling Heights,7
+Chapel Hill,7
+Hendersonville,7
+Morrisville,7
+Paramus,7
+West Chester,7
+Edmond,7
+Allentown,7
+Rapid City,7
+Chattanooga,7
+McKinney,7
+Midlothian,7
+Pearland,7
+Rockwall,7
+Herndon,7
+Bremerton,7
+Lacey,7
+Wauwatosa,7
+Cheyenne,7
+Sharjah,6
+Sydney,6
+المنامة,6
+Guarulhos,6
+Airdrie,6
+Lethbridge,6
+Sherwood Park,6
+Delta,6
+St. John's,6
+Belleville,6
+Kitchener,6
+Newmarket,6
+St. Catharines,6
+常熟市,6
+盐城市,6
+江门市,6
+柳州,6
+三亚市,6
+Berlin,6
+Frankfurt,6
+Copenhagen,6
+Roissy-en-France,6
+Bournemouth,6
+Derby,6
+Hampton,6
+Milton Keynes,6
+Northampton,6
+Norwich,6
+Stafford,6
+Denpasar,6
+Bekasi,6
+Cork,6
+Hyderabad,6
+Mito,6
+Funabashi,6
+Kashiwa,6
+Ota-ku,6
+Tachikawa,6
+Taito-ku,6
+Fujisawa,6
+Sagamihara,6
+Niigata,6
+Toyama,6
+Himeji,6
+Takamatsu,6
+Oita,6
+Anyang-si,6
+Gyeonggi-do,6
+Yongin-si,6
+Cheongju,6
+경상남도,6
+Acapulco,6
+Estado de Mexico,6
+Queretaro,6
+Merida,6
+Schiphol,6
+Wellington,6
+مسقط,6
+Muscat,6
+Paranaque City,6
+Angeles City,6
+Wrocław,6
+Warsaw,6
+الدوحة,6
+Stockholm,6
+Bangkapi,6
+Chiayi City,6
+Rogers,6
+Goodyear,6
+Anderson,6
+Apple Valley,6
+Belmont,6
+Clayton,6
+Culver City,6
+Daly City,6
+Gilroy,6
+Granada Hills,6
+Hawthorne,6
+Laguna Niguel,6
+Lodi,6
+Los Gatos,6
+Manteca,6
+Marina Del Rey,6
+Moreno Valley,6
+North Hollywood,6
+Novato,6
+San Leandro,6
+Tracy,6
+Westwood,6
+Woodland,6
+Winter Park,6
+Watertown,6
+Altamonte Springs,6
+Cape Coral,6
+Coral Gables,6
+Largo,6
+Odessa,6
+Pembroke Pines,6
+Brunswick,6
+Smyrna,6
+Suwanee,6
+Kahului,6
+Marion,6
+West Des Moines,6
+Meridian,6
+Deer Park,6
+Gurnee,6
+Northbrook,6
+Rosemont,6
+Evansville,6
+Mishawaka,6
+South Bend,6
+Easton,6
+Marlborough,6
+Royal Oak,6
+Great Falls,6
+Harrisburg,6
+Edison,6
+Fort Lee,6
+Jersey City,6
+Carson City,6
+Astoria,6
+Syracuse,6
+Yonkers,6
+North Olmsted,6
+Powell,6
+Norman,6
+Corvallis,6
+Gresham,6
+Warrenton,6
+Exton,6
+Abilene,6
+Cedar Park,6
+Hurst,6
+Sugar Land,6
+Tyler,6
+Waco,6
+Harrisonburg,6
+Manassas,6
+Newport News,6
+Roanoke,6
+Edmonds,6
+Gig Harbor,6
+Kennewick,6
+Richland,6
+Hà Nội,6
+Caba,5
+Mendoza,5
+Fort McMurray,5
+St. Albert,5
+Maple Ridge,5
+Mission,5
+Port Coquitlam,5
+Prince George,5
+Sidney,5
+Dartmouth,5
+Barrie,5
+Oshawa,5
+Thunder Bay,5
+Basel,5
+廊坊市,5
+慈溪市,5
+舟山市,5
+淄博市,5
+Causeway Bay,5
+Bogota D.C.,5
+Hamburg,5
+Malaga,5
+Braintree,5
+Guildford,5
+Salisbury,5
+Suffolk,5
+Warrington,5
+Swansea,5
+Jakarta Utara,5
+Chennai,5
+Morioka,5
+Takasaki,5
+Narita,5
+Atsugi,5
+Ebina,5
+Kanazawa,5
+Matsumoto,5
+Yokkaichi,5
+Hirakata,5
+Sakai,5
+Toyonaka,5
+Nishinomiya,5
+Wakayama,5
+Matsuyama,5
+Kumamoto,5
+Naha,5
+광주,5
+대전,5
+GYEONGGI,5
+Gumi-si,5
+Gyeongsangbuk-do,5
+Gimhae-si,5
+Almaty,5
+Aguascalientes,5
+Mexicali,5
+Chihuahua,5
+Ciudad Juarez,5
+Durango,5
+Morelia,5
+Cuernavaca,5
+Hermosillo,5
+Villahermosa,5
+Melaka,5
+Ipoh,5
+Sepang,5
+Arequipa,5
+San Fernando,5
+Poznań,5
+Lisboa,5
+San Salvador,5
+Huaykwang,5
+Klongtoey,5
+Pathumwan,5
+Banglamung,5
+Aydin,5
+Mugla,5
+Zhubei City,5
+Fairbanks,5
+Hoover,5
+Conway,5
+Marana,5
+Alhambra,5
+Arcadia,5
+Baldwin Park,5
+Berkeley,5
+Beverly Hills,5
+Burlingame,5
+Chino Hills,5
+Covina,5
+Dana Point,5
+Downey,5
+Emeryville,5
+Fair Oaks,5
+Fountain Valley,5
+Indio,5
+Inglewood,5
+La Habra,5
+Lake Elsinore,5
+Merced,5
+Mill Valley,5
+Monrovia,5
+Montclair,5
+Moorpark,5
+National City,5
+Oakdale,5
+Pacifica,5
+Paso Robles,5
+Poway,5
+San Bruno,5
+Santa Fe Springs,5
+Santee,5
+Saratoga,5
+Saugus,5
+Union City,5
+Upland,5
+West Hills,5
+Westchester,5
+Yuba City,5
+Glenwood Springs,5
+Pueblo,5
+Boynton Beach,5
+Davenport,5
+Delray Beach,5
+Kissimmee,5
+Ocala,5
+Palm Beach Gardens,5
+Sunrise,5
+Cumming,5
+Peachtree City,5
+Aiea,5
+Ames,5
+Sioux City,5
+Coeur d'Alene,5
+Bolingbrook,5
+Champaign,5
+Glenview,5
+Hoffman Estates,5
+Oak Lawn,5
+Plainfield,5
+Skokie,5
+Vernon Hills,5
+Lebanon,5
+New Albany,5
+Portage,5
+Westfield,5
+Topeka,5
+Ashland,5
+Hebron,5
+Somerset,5
+Lake Charles,5
+Metairie,5
+Brookline,5
+Somerville,5
+Ellicott City,5
+Waldorf,5
+East Lansing,5
+Kalamazoo,5
+Buffalo,5
+Eagan,5
+Eden Prairie,5
+Bozeman,5
+Missoula,5
+Huntersville,5
+Mooresville,5
+Nashua,5
+Atlantic City,5
+Las Cruces,5
+Rio Rancho,5
+Latham,5
+Beavercreek,5
+Centerville,5
+Cuyahoga Falls,5
+Grove City,5
+Strongsville,5
+Westerville,5
+Happy Valley,5
+Milwaukie,5
+Temple,5
+North Charleston,5
+Summerville,5
+Johnson City,5
+Corpus Christi,5
+Laredo,5
+Tomball,5
+Wylie,5
+Park City,5
+St. George,5
+Ashburn,5
+Glen Allen,5
+Lynchburg,5
+Burien,5
+Mercer Island,5
+Port Orchard,5
+Snohomish,5
+Oak Creek,5
+Sofia,4
+Penticton,4
+Whistler,4
+Dieppe,4
+Saint John,4
+Ancaster,4
+Bolton,4
+Kanata,4
+Peterborough,4
+Scarborough,4
+Sudbury,4
+Whitby,4
+Gatineau,4
+Hull,4
+Bern,4
+St. Gallen,4
+Concepcion,4
+唐山市,4
+包头市,4
+呼和浩特,4
+Nantong,4
+宿迁市,4
+温岭市,4
+芜湖市,4
+潍坊市,4
+宜昌市,4
+汕头市,4
+湛江市,4
+Nicosia,4
+Brno,4
+DUESSELDORF,4
+Sevilla,4
+Vantaa,4
+Marseille,4
+Carlisle,4
+Gloucestershire,4
+Hampshire,4
+Ipswich,4
+Preston,4
+Sutton,4
+Swindon,4
+Worcester,4
+Yorkshire,4
+Bangor,4
+Dumfries,4
+Guatemala,4
+Banten,4
+Semarang,4
+Makassar,4
+Asahikawa,4
+Akita,4
+Yamagata,4
+Koriyama,4
+Tokorozawa,4
+Kisarazu,4
+Musashino,4
+Sumida-ku,4
+Fukui,4
+Nagano,4
+Gifu,4
+Ichinomiya,4
+Toyota,4
+Kochi,4
+Kitakyushu,4
+Saga,4
+Nagasaki,4
+Kagoshima,4
+Chatan-cho,4
+Phnom Penh,4
+Gyeonggido,4
+대구,4
+Ansan,4
+Gimpo,4
+Goyang-si,4
+gyeonggi,4
+Suwon-si,4
+Yongin,4
+Sejong,4
+Jeonju-si,4
+Salmiya,4
+Khaldiya,4
+Los Cabos,4
+Torreon,4
+Huixquilucan,4
+Santiago de Queretaro,4
+San Luis Potosi,4
+Veracruz,4
+Kuching,4
+Utrecht,4
+Den Haag,4
+Panama,4
+Antipolo,4
+Baguio City,4
+Kraków,4
+Carolina,4
+المدينة المنورة,4
+DAMMAM,4
+Nonthaburi,4
+Pakkred,4
+Sathorn,4
+Chonburi,4
+Phuket,4
+Eskisehir,4
+Wasilla,4
+Homewood,4
+Tuscaloosa,4
+Jonesboro,4
+Avondale,4
+Lake Havasu City,4
+Litchfield Park,4
+Oro Valley,4
+Sedona,4
+Aliso Viejo,4
+Anaheim Hills,4
+Azusa,4
+Benicia,4
+Canoga Park,4
+Castro Valley,4
+Chatsworth,4
+Citrus Heights,4
+Claremont,4
+Compton,4
+Corte Madera,4
+Del Mar,4
+El Centro,4
+El Dorado Hills,4
+El Monte,4
+Eureka,4
+Fort Bragg,4
+Gardena,4
+Glendora,4
+Hemet,4
+Hesperia,4
+Hollister,4
+La Quinta,4
+Madera,4
+Malibu,4
+Monterey,4
+Montrose,4
+Porterville,4
+Rancho Mirage,4
+San Dimas,4
+Seal Beach,4
+South Lake Tahoe,4
+South San Francisco,4
+Studio City,4
+West Covina,4
+West Sacramento,4
+Clifton,4
+Lone Tree,4
+Vail,4
+Danbury,4
+West Hartford,4
+Aventura,4
+Davie,4
+Daytona Beach,4
+Deerfield Beach,4
+Ft. Lauderdale,4
+Hialeah,4
+Jupiter,4
+Key West,4
+Lake Buena Vista,4
+Plantation,4
+Riverview,4
+Stuart,4
+Cartersville,4
+Newnan,4
+Hilo,4
+Lahaina,4
+Ankeny,4
+Clinton,4
+Iowa City,4
+Newton,4
+Idaho Falls,4
+Nampa,4
+Pocatello,4
+Addison,4
+Arlington Heights,4
+Downers Grove,4
+Frankfort,4
+Lake Zurich,4
+Lombard,4
+Oak Brook,4
+Palatine,4
+Quincy,4
+Waukegan,4
+Wheeling,4
+Wilmette,4
+Hammond,4
+Merrillville,4
+West Lafayette,4
+Manhattan,4
+Shawnee,4
+Owensboro,4
+Union,4
+Bossier City,4
+Slidell,4
+Framingham,4
+Bel Air,4
+Glen Burnie,4
+Hagerstown,4
+Laurel,4
+Olney,4
+South Portland,4
+Clarkston,4
+Fenton,4
+Grandville,4
+Livonia,4
+Rochester Hills,4
+Shelby Township,4
+Southfield,4
+Warren,4
+Brooklyn Park,4
+Burnsville,4
+Lakeville,4
+Maple Grove,4
+Stillwater,4
+Joplin,4
+Maryville,4
+Cornelius,4
+High Point,4
+Matthews,4
+New Bern,4
+Smithfield,4
+Bismarck,4
+Papillion,4
+Bridgewater,4
+Freehold,4
+Mount Laurel,4
+Princeton,4
+Rockaway,4
+Mesquite,4
+Cheektowaga,4
+Commack,4
+Flushing,4
+Forest Hills,4
+Huntington,4
+Poughkeepsie,4
+Mentor,4
+Reynoldsburg,4
+Clackamas,4
+North Bend,4
+Oregon City,4
+Sherwood,4
+Tualatin,4
+West Linn,4
+Wilsonville,4
+Woodburn,4
+Bethel Park,4
+Langhorne,4
+Bluffton,4
+Clemson,4
+Fort Mill,4
+Hilton Head,4
+Rock Hill,4
+Spartanburg,4
+Cordova,4
+Amarillo,4
+Baytown,4
+Burleson,4
+Conroe,4
+Galveston,4
+Harlingen,4
+Killeen,4
+Missouri City,4
+North Richland Hills,4
+Rowlett,4
+Southlake,4
+Orem,4
+Blacksburg,4
+Burke,4
+Leesburg,4
+Vienna,4
+Battle Ground,4
+Bonney Lake,4
+Ellensburg,4
+Maple Valley,4
+Mill Creek,4
+Sammamish,4
+Shoreline,4
+Silverdale,4
+Tumwater,4
+Walla Walla,4
+Appleton,4
+Kenosha,4
+Morgantown,4
+Casper,4
+Ras Al Khaimah,3
+Pilar,3
+Rosario,3
+Salzburg,3
+Baku,3
+Zaventem,3
+Niteroi,3
+Ribeirao Preto,3
+Banff,3
+Grande Prairie,3
+Medicine Hat,3
+Spruce Grove,3
+Duncan,3
+Langford,3
+Port Moody,3
+Tsawwassen,3
+Moncton,3
+Enfield,3
+Etobicoke,3
+Gloucester,3
+Nepean,3
+North York,3
+Orleans,3
+Dorval,3
+Laval,3
+Lausanne,3
+Vina del Mar,3
+保定市,3
+秦皇岛,3
+鞍山市,3
+shanghai,3
+Suzhou,3
+太仓市,3
+宜兴市,3
+江阴市,3
+淮安市,3
+连云港市,3
+hangzhou,3
+Ningbo,3
+海宁市,3
+衢州市,3
+马鞍山,3
+莆田市,3
+临沂市,3
+威海市,3
+济宁市,3
+洛阳,3
+衡阳市,3
+绵阳市,3
+兰州市,3
+西宁市,3
+Quarry Bay,3
+Wan Chai,3
+Willemstad,3
+Lemesos,3
+Prague,3
+FREIBURG,3
+STUTTGART,3
+BREMEN,3
+BONN,3
+COLOGNE,3
+DUISBURG,3
+OBERHAUSEN,3
+Dresden,3
+Kastrup,3
+Helsinki,3
+Bordeaux,3
+Versailles,3
+Nantes,3
+Basingstoke,3
+Bath,3
+Berkshire,3
+Bromley,3
+Chelmsford,3
+Chorley,3
+Croydon,3
+Exeter,3
+Gateshead,3
+Hungerford,3
+Luton,3
+Staffordshire,3
+Taunton,3
+Wigan,3
+Londonderry,3
+Elgin,3
+Livingston,3
+Heraklion,3
+Badung,3
+Jakarta Selatan,3
+Balikpapan,3
+Palembang,3
+Limerick,3
+Waterford,3
+Aomori,3
+Moriya,3
+Kawaguchi,3
+Urayasu,3
+Adachi-ku,3
+Itabashi-ku,3
+Kita-ku,3
+Mitaka,3
+Shinjuku,3
+Suginami-ku,3
+Hiratsuka,3
+Kamakura,3
+Odawara,3
+Yokosuka,3
+Fuji,3
+Kasugai,3
+Kuwana,3
+Okazaki,3
+Tokoname,3
+Otsu,3
+Higashiosaka,3
+Ibaraki,3
+Izumisano,3
+Tajiri-cho,3
+Tottori,3
+Akashi,3
+Nara,3
+Kurashiki,3
+Kurume,3
+Miyazaki,3
+Daegu Gwang`Yeogsi,3
+Daegu-si,3
+Gwang ju,3
+Anyang,3
+Gyeonggi,3
+Hwaseong,3
+Namyangju-si,3
+경기,3
+강원도,3
+Cheonan,3
+Gunsan,3
+Jeonju,3
+Mokpo-si,3
+Yeosu,3
+Gyeongju-si,3
+Gyeongsan-si,3
+Pohang-si,3
+경상북도,3
+Gimhae,3
+Jinju-si,3
+Jeju,3
+Seogwipo-si,3
+Saltillo,3
+MEXICO,3
+Mexico D F,3
+Celaya,3
+Irapuato,3
+Zapopan,3
+Coacalco,3
+Metepec,3
+San Pedro Garza Garcia,3
+Nogales,3
+Tampico,3
+Zacatecas,3
+Langkawi,3
+Kuantan,3
+Cyberjaya,3
+Klang,3
+Puchong,3
+Shah Alam,3
+Miri,3
+Rotterdam,3
+Bergen,3
+Las Pinas City,3
+Paranaque,3
+Quezon,3
+Taguig,3
+Binan,3
+Gdańsk,3
+Gdynia,3
+Katowice,3
+Poznan,3
+Szczecin,3
+Guaynabo,3
+Timisoara,3
+Rostov-on-Don,3
+St Petersburg,3
+Ekaterinburg,3
+Mecca,3
+الخبر,3
+Bratislava,3
+Bangkok Noi,3
+Chatuchak,3
+Yannawa,3
+Bangpakong,3
+Chiang Mai,3
+Kathu,3
+Balikesir,3
+Gaziantep,3
+Hatay,3
+Istanbul - Asya,3
+Kayseri,3
+Samsun,3
+Changhua City,3
+Keelung City,3
+Gueishan Township,3
+Eagle River,3
+Alabaster,3
+Opelika,3
+Bentonville,3
+Springdale,3
+Anthem,3
+Casa Grande,3
+Cave Creek,3
+Fountain Hills,3
+Kingman,3
+Laveen,3
+Maricopa,3
+Prescott Valley,3
+Sierra Vista,3
+Sun City,3
+Atwater,3
+Barstow,3
+Cabazon,3
+Calabasas,3
+Cameron Park,3
+Capitola,3
+Carmichael,3
+Cathedral City,3
+Century City,3
+Colton,3
+Diamond Bar,3
+El Cerrito,3
+Encino,3
+Hanford,3
+Harbor City,3
+Hermosa Beach,3
+La Mirada,3
+La Verne,3
+Laguna Beach,3
+Laguna Hills,3
+Los Altos,3
+Los Banos,3
+Manhattan Beach,3
+Marina,3
+Menifee,3
+Montebello,3
+Norco,3
+Oakhurst,3
+Pacific Palisades,3
+Paramount,3
+Perris,3
+Pico Rivera,3
+Pinole,3
+Placerville,3
+Red Bluff,3
+Riverbank,3
+Rosemead,3
+Rowland Heights,3
+SACRAMENTO,3
+San Carlos,3
+SAN DIEGO,3
+San Juan Capistrano,3
+San Pablo,3
+Scotts Valley,3
+Seaside,3
+Sonora,3
+South Pasadena,3
+Spring Valley,3
+Tarzana,3
+Truckee,3
+Ukiah,3
+Universal City,3
+Venice,3
+Westlake,3
+Wildomar,3
+Conifer,3
+Dillon,3
+Eagle,3
+Firestone,3
+Steamboat Springs,3
+Superior,3
+Glastonbury,3
+Groton,3
+Hartford,3
+Trumbull,3
+Westport,3
+Washington DC,3
+Dover,3
+Casselberry,3
+Clermont,3
+Destin,3
+Doral,3
+Estero,3
+Greenacres,3
+Miramar,3
+New Port Richey,3
+Orange Park,3
+Oviedo,3
+Palm Harbor,3
+Panama City Beach,3
+Pinellas Park,3
+Port Charlotte,3
+Saint Augustine,3
+Sanford,3
+Spring Hill,3
+St. Petersburg,3
+Vero Beach,3
+Wesley Chapel,3
+Weston,3
+Bethlehem,3
+Buford,3
+Dacula,3
+Evans,3
+McDonough,3
+Norcross,3
+Oakwood,3
+Tucker,3
+Valdosta,3
+Kailua-Kona,3
+Kaneohe,3
+Kapolei,3
+Kihei,3
+Lihue,3
+Mililani,3
+Waipahu,3
+Cedar Falls,3
+Clive,3
+Coralville,3
+Dubuque,3
+Mason City,3
+Urbandale,3
+Twin Falls,3
+Algonquin,3
+Barrington,3
+Bourbonnais,3
+Crestwood,3
+Crystal Lake,3
+Elk Grove Village,3
+Fairview Heights,3
+Geneva,3
+Glen Ellyn,3
+Highland Park,3
+Hinsdale,3
+Joliet,3
+Macomb,3
+Mundelein,3
+Normal,3
+Northfield,3
+Park Ridge,3
+Peru,3
+Shorewood,3
+St Charles,3
+Urbana,3
+Woodridge,3
+Ft. Wayne,3
+Goshen,3
+Muncie,3
+Newburgh,3
+Terre Haute,3
+Andover,3
+Hutchinson,3
+Leavenworth,3
+Salina,3
+LOUISVILLE,3
+Kenner,3
+Abington,3
+Chestnut Hill,3
+Holyoke,3
+Lowell,3
+Natick,3
+Pittsfield,3
+Woburn,3
+Arnold,3
+Clarksburg,3
+Eldersburg,3
+Gambrills,3
+Greenbelt,3
+Hyattsville,3
+La Plata,3
+Ocean City,3
+Owings Mills,3
+Severna Park,3
+Timonium,3
+Allendale,3
+Auburn Hills,3
+Bloomfield Township,3
+Caledonia,3
+Clinton Township,3
+Dearborn,3
+Grand Haven,3
+Grosse Pointe,3
+Marquette,3
+Northville,3
+Coon Rapids,3
+Cottage Grove,3
+Medina,3
+Minnetonka,3
+St Paul,3
+Branson,3
+Cape Girardeau,3
+Gladstone,3
+Lees Summit,3
+O'Fallon,3
+Osage Beach,3
+St. Joseph,3
+Biloxi,3
+Hattiesburg,3
+Helena,3
+Kalispell,3
+Apex,3
+Garner,3
+Gastonia,3
+Goldsboro,3
+Hickory,3
+Holly Springs,3
+Kernersville,3
+Murphy,3
+Winston Salem,3
+Fargo,3
+Grand Forks,3
+Cranbury,3
+Gillette,3
+Hackensack,3
+Hoboken,3
+Morristown,3
+Phillipsburg,3
+Piscataway,3
+Ridgewood,3
+Toms River,3
+Bay Shore,3
+Clifton Park,3
+Farmingdale,3
+Ithaca,3
+Levittown,3
+Nanuet,3
+New Rochelle,3
+Riverhead,3
+Saratoga Springs,3
+Scarsdale,3
+Stony Brook,3
+Vestal,3
+West Nyack,3
+Westbury,3
+Blue Ash,3
+Broadview Heights,3
+Mason,3
+Mt Vernon,3
+Parma,3
+Perrysburg,3
+Sandusky,3
+Upper Arlington,3
+Whitehall,3
+Broken Arrow,3
+Moore,3
+Owasso,3
+Canby,3
+Grants Pass,3
+Keizer,3
+McMinnville,3
+Roseburg,3
+The Dalles,3
+Troutdale,3
+Camp Hill,3
+Cranberry Township,3
+Doylestown,3
+Glen Mills,3
+Hermitage,3
+McMurray,3
+Mechanicsburg,3
+North Wales,3
+Plymouth Meeting,3
+Selinsgrove,3
+State College,3
+Wexford,3
+Aiken,3
+Collierville,3
+Brownsville,3
+Bryan,3
+Euless,3
+Friendswood,3
+Ft. Worth,3
+Granbury,3
+Keller,3
+Little Elm,3
+Pflugerville,3
+Rosenberg,3
+San Angelo,3
+Sherman,3
+Sugarland,3
+Weatherford,3
+Layton,3
+Lehi,3
+Ogden,3
+South Jordan,3
+West Jordan,3
+West Valley City,3
+Chantilly,3
+Fort Belvoir,3
+Grafton,3
+Mechanicsville,3
+Centralia,3
+Enumclaw,3
+Lake Stevens,3
+Moses Lake,3
+Mountlake Terrace,3
+Mukilteo,3
+Oak Harbor,3
+Poulsbo,3
+Spokane Valley,3
+Stanwood,3
+Wenatchee,3
+Woodinville,3
+Eau Claire,3
+Green Bay,3
+Oshkosh,3
+Sheboygan,3
+Waukesha,3
+Barboursville,3
+Laramie,3
+Ajman,2
+Fujairah,2
+Boulogne,2
+San Isidro,2
+Brisbane,2
+Oranjestad,2
+Antwerp,2
+Gent,2
+البحرين,2
+Bandar Seri Begawan,2
+Sao Bernardo do Campo,2
+Sao Jose do Campos,2
+Sao Jose do Rio Preto,2
+Camrose,2
+Canmore,2
+Chestermere,2
+Cochrane,2
+Fort Saskatchewan,2
+Leduc,2
+Lloydminster,2
+Okotoks,2
+Rocky View,2
+St Albert,2
+Campbell River,2
+Cloverdale,2
+Courtenay,2
+Cranbrook,2
+Dawson Creek,2
+Nelson,2
+Powell River,2
+Saanich,2
+Squamish,2
+Fredericton,2
+Ajax,2
+Collingwood,2
+Maple,2
+Niagara on the Lake,2
+Pickering,2
+Port Hope,2
+Sault Ste. Marie,2
+Stoney Creek,2
+Thornhill,2
+TORONTO,2
+Charlottetown,2
+Lasalle,2
+Quebec City,2
+Moose Jaw,2
+Prince Albert,2
+Whitehorse,2
+Fribourg,2
+Luzern,2
+Zug,2
+Winterthur,2
+Rancagua,2
+Valparaiso,2
+盘锦市,2
+营口市,2
+吉林市,2
+大庆市,2
+Shanghai,2
+ShangHai,2
+江苏省,2
+靖江市,2
+Hangzhou,2
+Jiaxing,2
+上虞市,2
+丽水市,2
+临海市,2
+义乌市,2
+奉化市,2
+诸暨市,2
+宁德市,2
+龙岩市,2
+九江市,2
+德州市,2
+襄阳市,2
+岳阳市,2
+株洲市,2
+湘潭市,2
+桂林,2
+德阳市,2
+丽江市,2
+银川市,2
+Admiralty,2
+Lantau Island,2
+Mong Kok,2
+N.T.,2
+Yuen Long,2
+BOGOTA D.C.,2
+Alajuela,2
+Ostrava,2
+POTSDAM,2
+HEIDELBERG,2
+HEILBRONN,2
+KARLSRUHE,2
+Stuttgart,2
+Munich,2
+NUERNBERG,2
+NÜRNBERG,2
+WIESBADEN,2
+Hannover,2
+DORTMUND,2
+Duesseldorf,2
+ESSEN,2
+KÖLN,2
+Saarbruecken,2
+Frederiksberg,2
+Alicante,2
+Courbevoie,2
+Orly,2
+Puteaux,2
+Thiais,2
+TREMBLAY EN FRANCE,2
+Lille,2
+Marignane,2
+Ashford,2
+Ashorne,2
+Basildon,2
+Beaconsfield,2
+Blackpool,2
+Bradford,2
+Bridgend,2
+Buckinghamshire,2
+Camberley,2
+Canterbury,2
+Castleford,2
+Chatham,2
+Cheltenham,2
+Cheshire,2
+Colchester,2
+Crawley,2
+Doncaster,2
+Ealing,2
+Edgbaston,2
+Epping,2
+Essex,2
+Farnham,2
+Fleet,2
+Folkestone,2
+Hants,2
+Hounslow,2
+Kenilworth,2
+Kettering,2
+Leamington Spa,2
+Liphook,2
+LONDON,2
+Maidstone,2
+Newcastle on Tyne,2
+Newcastle Upon Tyne,2
+Nottinghamshire,2
+Penrith,2
+Potters Bar,2
+Romford,2
+Solihull,2
+St Helens,2
+Staines,2
+Stoke on Trent,2
+Stratford,2
+Tamworth,2
+Uxbridge,2
+Wakefield,2
+Walsall,2
+Warminster,2
+Watford,2
+Wembley,2
+West Sussex,2
+Weymouth,2
+Wirral,2
+Woking,2
+Wolverhampton,2
+Worthing,2
+Inverness,2
+Paisley,2
+Stockbridge,2
+Llanelli,2
+Rhyl,2
+Wrexham,2
+Aghia Paraskevi,2
+Thessaloniki,2
+Guatemala City,2
+Cikampek,2
+DKI Jakarta,2
+Jakarta Barat,2
+Jogjakarta,2
+Yogyakarta,2
+Pontianak,2
+Batam,2
+Manado,2
+Pekanbaru,2
+Dublin 1,2
+Delhi,2
+Hakodate,2
+Obihiro,2
+Hachinohe,2
+Fukushima,2
+Iwaki,2
+Hitachi,2
+Hitachinaka,2
+Kasama,2
+Tsuchiura,2
+Oyama,2
+Sano,2
+Tochigi,2
+Isesaki,2
+Maebashi,2
+Ota,2
+Hanyu,2
+Kamisato-machi,2
+Kasukabe,2
+Kawagoe,2
+Kuki,2
+Toda,2
+Inzai,2
+Matsudo,2
+Narashino,2
+Shisui-machi,2
+Yachiyo,2
+Chofu,2
+Hino,2
+Hinode-machi,2
+Katsushika-ku,2
+Koganei,2
+Musashimurayama,2
+Nerima-ku,2
+Tama,2
+Tokyo,2
+Isehara,2
+Yamato,2
+Nagaoka,2
+Takaoka,2
+Chuo,2
+Kofu,2
+Showa-cho,2
+Uenohara,2
+Suwa,2
+Ueda,2
+Anjo,2
+Higashiura-cho,2
+Toyohashi,2
+Kusatsu,2
+Taga-cho,2
+Miki,2
+Minoh,2
+Neyagawa,2
+Takatsuki,2
+Amagasaki,2
+Itami,2
+Kashihara,2
+Yamatokoriyama,2
+Izumo,2
+Fukuyama,2
+Hatsukaichi,2
+Kure,2
+Shimonoseki,2
+Tokushima,2
+Dazaifu,2
+Tosu,2
+Omura,2
+Sasebo,2
+Kikuyo-cho,2
+Haebaru-cho,2
+Urasoe,2
+Sahagu,2
+daegu-si,2
+Gwangju-si,2
+Ulsan-si,2
+울산,2
+Gunpo,2
+Guri,2
+Gwangmyeong,2
+Gwangmyeong-si,2
+Hanam-si,2
+Icheon,2
+Osan-si,2
+Paju-si,2
+Pyeongtaek-si,2
+Uijeongbu,2
+Gangneung,2
+Gangwon,2
+Wonju,2
+Chungcheongbuk-do,2
+Chungju-si,2
+Cheonan-si,2
+Iksan,2
+Andong-si,2
+Changwon-si,2
+Yangsan-si,2
+Jeju-si,2
+Seogwipo,2
+Hawally,2
+Kuwait,2
+Egaila,2
+Astana,2
+Hazmieh,2
+بيروت,2
+Monaco,2
+Ensenada,2
+La Paz,2
+Tuxtla Gutierrez,2
+DF,2
+DISTRITO FEDERAL,2
+Pachuca,2
+Uruapan,2
+Apodaca,2
+Cuautitlan Izcalli,2
+Estado de México,2
+Tepic,2
+Guadalupe,2
+PUEBLA,2
+Mazatlan,2
+Coatzacoalcos,2
+Alor Setar,2
+Genting Highland,2
+Bayan Lepas,2
+Bukit Mertajam,2
+Taiping,2
+Ampang,2
+Putrajaya,2
+Rawang,2
+Seri Kembangan,2
+Groningen,2
+Eindhoven,2
+Schipol,2
+Trondheim,2
+Dunedin,2
+Southland,2
+Panama City,2
+Cusco,2
+Trujillo,2
+Piura,2
+Balagtas,2
+Marilao,2
+Olongapo City,2
+Tarlac City,2
+Davao,2
+Bacolod City,2
+Iloilo City,2
+Batangas,2
+Dasmarinas,2
+Lipa City,2
+Tagaytay,2
+Tagaytay City,2
+Cagayan de Oro,2
+Marikina City,2
+Santa Rosa City,2
+Bayamon,2
+Lisbon,2
+Constanta,2
+Iasi City,2
+Krasnodar,2
+Kotelniki,2
+Tyumen,2
+JEDDAH,2
+Jubail,2
+الدمام,2
+Stockholm - Arlanda,2
+singapore,2
+Antiguo Cuscatlan,2
+SAN SALVADOR,2
+Bangkhen,2
+Don Muang,2
+Huay Kwang,2
+Klong Toey,2
+Phayathai,2
+Prawet,2
+Ratchathewi,2
+Wangtonglang,2
+Bangphi,2
+Samutprakarn,2
+Nontha Buri,2
+Pathum Thani,2
+Prathumthani,2
+Phra Nakhon Si Ayutthaya,2
+Sriracha,2
+Chachoengsao,2
+Nakhon Pathom,2
+Hua Hin,2
+Bilecik,2
+Canakkale,2
+Diyarbakir,2
+Mersin,2
+Konya,2
+Bodrum,2
+Sakarya,2
+Hualien City,2
+Yilan City,2
+Nantou City,2
+Pingtung City,2
+Lujhu Township,2
+Taoyuan County,2
+Yunlin County,2
+Juneau,2
+Palmer,2
+Soldotna,2
+Prattville,2
+Vestavia Hills,2
+Benton,2
+Ft. Smith,2
+Searcy,2
+Texarkana,2
+Apache Junction,2
+Bullhead City,2
+Camp Verde,2
+Fort Mohave,2
+Lakeside,2
+Payson,2
+Sahuarita,2
+Sun City West,2
+Alamo,2
+American Canyon,2
+Aptos,2
+Arroyo Grande,2
+Atascadero,2
+Banning,2
+Bellflower,2
+Big Bear Lake,2
+Bishop,2
+Bonita,2
+Brawley,2
+Castaic,2
+Ceres,2
+City of Commerce,2
+City of Industry,2
+Colma,2
+Commerce,2
+Del Rey Oaks,2
+Dixon,2
+Duarte,2
+Edwards,2
+Fallbrook,2
+Foster City,2
+Freedom,2
+Goleta,2
+Gonzales,2
+Granite Bay,2
+Grass Valley,2
+Hacienda Heights,2
+Healdsburg,2
+Hercules,2
+Highland,2
+Huntington Park,2
+La Canada,2
+La Crescenta,2
+Ladera Ranch,2
+Lathrop,2
+Lemon Grove,2
+Loma Linda,2
+Lompoc,2
+Lynwood,2
+Mammoth Lakes,2
+Millbrae,2
+Moraga,2
+Newport Coast,2
+Nipomo,2
+North Highlands,2
+North Hills,2
+Oakley,2
+Orinda,2
+Patterson,2
+Prunedale,2
+Ramona,2
+Rancho Palos Verdes,2
+Reseda,2
+Rialto,2
+Ridgecrest,2
+Rolling Hills Estates,2
+San Jacinto,2
+Sand City,2
+Santa Paula,2
+Sausalito,2
+Sebastopol,2
+Selma,2
+Signal Hill,2
+Solana Beach,2
+Sonoma,2
+Soquel,2
+Southgate,2
+Susanville,2
+Tehachapi,2
+Tujunga,2
+Tulare,2
+Valley Village,2
+Walnut,2
+Watsonville,2
+Weaverville,2
+West Los Angeles,2
+Yorba Linda,2
+Yucaipa,2
+Commerce City,2
+Elizabeth,2
+Estes Park,2
+Evergreen,2
+Fort Carson,2
+Fountain,2
+Granby,2
+Johnstown,2
+Monument,2
+Northglenn,2
+Rifle,2
+Woodland Park,2
+Bloomfield,2
+Branford,2
+Darien,2
+East Lyme,2
+Greenwich,2
+MANCHESTER,2
+New Britain,2
+New Haven,2
+Newington,2
+Newtown,2
+North Haven,2
+Plainville,2
+Shelton,2
+Southington,2
+Torrington,2
+Waterbury,2
+West Haven,2
+Millville,2
+Rehoboth Beach,2
+Apopka,2
+Cocoa Beach,2
+Coconut Creek,2
+Coconut Grove,2
+Cutler Bay,2
+Fort Walton Beach,2
+Ft Lauderdale,2
+Gulf Breeze,2
+Jacksonville Beach,2
+Jensen Beach,2
+Lady Lake,2
+Lake Mary,2
+Lake Worth,2
+Lutz,2
+Mary Esther,2
+Merritt Island,2
+MIAMI,2
+Mount Dora,2
+Orange City,2
+Ormond Beach,2
+Palm Beach,2
+Palm Coast,2
+Pinecrest,2
+Pompano Beach,2
+Port Orange,2
+Port St. Lucie,2
+Royal Palm Beach,2
+Seminole,2
+St. Cloud,2
+Titusville,2
+West Melbourne,2
+Winter Garden,2
+Yulee,2
+Acworth,2
+Conyers,2
+Dalton,2
+Douglasville,2
+Dunwoody,2
+East Point,2
+Ellijay,2
+Fort Gordon,2
+Hiram,2
+La Grange,2
+Loganville,2
+Macon,2
+Milledgeville,2
+Rome,2
+Sandy Springs,2
+Snellville,2
+Statesboro,2
+Warner Robins,2
+Ewa Beach,2
+HONOLULU,2
+Kailua,2
+Altoona,2
+Bettendorf,2
+Council Bluffs,2
+Johnston,2
+Muscatine,2
+Sandpoint,2
+Bartlett,2
+Batavia,2
+Belvidere,2
+Bloomingdale,2
+Broadview,2
+Buffalo Grove,2
+Carbondale,2
+CHICAGO,2
+Cicero,2
+Countryside,2
+Deerfield,2
+Dekalb,2
+DeKalb,2
+Des Plaines,2
+Edwardsville,2
+Forest Park,2
+Glendale Heights,2
+Lake Bluff,2
+Lemont,2
+Libertyville,2
+Lisle,2
+Lockport,2
+Matteson,2
+Moline,2
+Mount Prospect,2
+New Lenox,2
+Oak Park,2
+River Forest,2
+Rolling Meadows,2
+Romeoville,2
+Round Lake Beach,2
+Schiller Park,2
+South Elgin,2
+St. Charles,2
+Streamwood,2
+Tinley Park,2
+Villa Park,2
+Warrenville,2
+Yorkville,2
+Granger,2
+Greenfield,2
+Munster,2
+Noblesville,2
+Notre Dame,2
+Shelbyville,2
+St John,2
+Hays,2
+Junction City,2
+Leawood,2
+Prairie Village,2
+Shawnee Mission,2
+Elizabethtown,2
+Jeffersontown,2
+Denham Springs,2
+Mandeville,2
+Beverly,2
+Brockton,2
+Dedham,2
+East Boston,2
+Falmouth,2
+Haverhill,2
+Hingham,2
+Hopkinton,2
+Hyannis,2
+Leominster,2
+Ludlow,2
+Marshfield,2
+Mashpee,2
+Methuen,2
+North Attleborough,2
+North Dartmouth,2
+Norwood,2
+Peabody,2
+Seekonk,2
+South Boston,2
+Waltham,2
+Wellesley,2
+Westborough,2
+Abingdon,2
+Brandywine,2
+Chevy Chase,2
+Cockeysville,2
+College Park,2
+Damascus,2
+Dunkirk,2
+Forestville,2
+Kensington,2
+Mount Airy,2
+National Harbor,2
+Potomac,2
+Prince Frederick,2
+Topsham,2
+Waterville,2
+Allen Park,2
+Battle Creek,2
+Big Rapids,2
+Bloomfield Hills,2
+Chesterfield Township,2
+Dearborn Heights,2
+Farmington Hills,2
+Flint,2
+Fort Gratiot,2
+Gaylord,2
+Howell,2
+Lansing,2
+Madison Heights,2
+Muskegon,2
+Okemos,2
+Saginaw,2
+St Joseph,2
+Taylor,2
+Traverse City,2
+Walled Lake,2
+Westland,2
+White Lake,2
+Woodhaven,2
+Wyoming,2
+Ypsilanti,2
+Baxter,2
+Blaine,2
+Champlin,2
+Chanhassen,2
+Forest Lake,2
+Mankato,2
+Moorhead,2
+New Hope,2
+Owatonna,2
+Richfield,2
+Saint Paul,2
+Savage,2
+Shoreview,2
+St. Louis Park,2
+Vadnais Heights,2
+White Bear Lake,2
+Ballwin,2
+Belton,2
+Blue Springs,2
+Creve Coeur,2
+Des Peres,2
+Florissant,2
+Jefferson City,2
+Lee's Summit,2
+Liberty,2
+Maryland Heights,2
+St. Peters,2
+University City,2
+Waynesville,2
+Wentzville,2
+D'Iberville,2
+Flowood,2
+Olive Branch,2
+Starkville,2
+Tupelo,2
+Arden,2
+Jamestown,2
+Knightdale,2
+Pineville,2
+Wake Forest,2
+Waxhaw,2
+Wilson,2
+Dickinson,2
+Minot,2
+Kearney,2
+Keene,2
+Cranford,2
+Denville,2
+Deptford,2
+East Hanover,2
+East Rutherford,2
+Galloway,2
+Hackettstown,2
+Moorestown,2
+New Brunswick,2
+North Bergen,2
+North Brunswick,2
+Ramsey,2
+Riverdale,2
+Secaucus,2
+Sewell,2
+Sicklerville,2
+South Amboy,2
+Turnersville,2
+Edgewood,2
+Hobbs,2
+Los Alamos,2
+Elko,2
+Laughlin,2
+Primm,2
+Stateline,2
+Amityville,2
+Binghamton,2
+Centereach,2
+Depew,2
+East Northport,2
+Fairport,2
+Glen Cove,2
+Great Neck,2
+Greece,2
+Hartsdale,2
+Henrietta,2
+Hicksville,2
+Huntington Station,2
+Lake Grove,2
+Manhasset,2
+Massapequa,2
+Melville,2
+Mount Vernon,2
+New Hyde Park,2
+New Paltz,2
+Port Washington,2
+Queensbury,2
+Rego Park,2
+Sayville,2
+Sunnyside,2
+Valley Stream,2
+Victor,2
+West Point,2
+White Plains,2
+Williamsville,2
+Beachwood,2
+Bexley,2
+Chillicothe,2
+Cleveland Heights,2
+Clyde,2
+COLUMBUS,2
+Fairview Park,2
+Hilliard,2
+Hudson,2
+Liberty Township,2
+Lyndhurst,2
+Mantua,2
+Massillon,2
+Mayfield Heights,2
+Miamisburg,2
+North Canton,2
+Pickerington,2
+Rocky River,2
+Solon,2
+South Lebanon,2
+St. Clairsville,2
+Stow,2
+Streetsboro,2
+Sunbury,2
+Sylvania,2
+Uniontown,2
+Wadsworth,2
+West Unity,2
+Willoughby,2
+Zanesville,2
+Ardmore,2
+Bartlesville,2
+Lawton,2
+Midwest City,2
+OKLAHOMA CITY,2
+Yukon,2
+Aloha,2
+Baker City,2
+Brookings,2
+Fairview,2
+Hermiston,2
+Hood River,2
+Klamath Falls,2
+La Grande,2
+Lincoln City,2
+Newberg,2
+Pendleton,2
+Tillamook,2
+Wood Village,2
+Bloomsburg,2
+Bridgeville,2
+Broomall,2
+Chambersburg,2
+Ephrata,2
+Flourtown,2
+Gibsonia,2
+Greensburg,2
+Hershey,2
+Huntingdon Valley,2
+Indiana,2
+Lewisburg,2
+Lititz,2
+Monaca,2
+Monroeville,2
+Quakertown,2
+Roslyn,2
+Royersford,2
+Sewickley,2
+Stowe,2
+Trexlertown,2
+West Homestead,2
+Wynnewood,2
+Yardley,2
+Greer,2
+Mt Pleasant,2
+Simpsonville,2
+Alcoa,2
+Cookeville,2
+Farragut,2
+Gallatin,2
+Hixson,2
+Kingsport,2
+Mt Juliet,2
+Pigeon Forge,2
+Sevierville,2
+Alvin,2
+Bartonville,2
+Cedar Hill,2
+Colleyville,2
+Coppell,2
+Edinburg,2
+Forney,2
+Ft. Bliss,2
+Harker Heights,2
+Kemah,2
+Kingwood,2
+Kyle,2
+Lakeway,2
+Leander,2
+Magnolia,2
+Nacogdoches,2
+Prosper,2
+Terrell,2
+Texas City,2
+Watauga,2
+Waxahachie,2
+Wichita Falls,2
+Bountiful,2
+Logan,2
+Murray,2
+Woods Cross,2
+Annandale,2
+Bristow,2
+Christiansburg,2
+Culpeper,2
+Front Royal,2
+Haymarket,2
+Henrico,2
+Purcellville,2
+Waynesboro,2
+Yorktown,2
+South Burlington,2
+Anacortes,2
+Bainbridge Island,2
+Belfair,2
+Chehalis,2
+Cheney,2
+Duvall,2
+East Wenatchee,2
+Graham,2
+Kelso,2
+Kenmore,2
+Port Angeles,2
+Pullman,2
+Sequim,2
+Sumner,2
+University Place,2
+Veradale,2
+Washougal,2
+Yelm,2
+Delafield,2
+Fitchburg,2
+Fond du Lac,2
+Greendale,2
+Janesville,2
+Lake Geneva,2
+Menomonee Falls,2
+Middleton,2
+New Berlin,2
+Pewaukee,2
+Pleasant Prairie,2
+Racine,2
+Sun Prairie,2
+Wausau,2
+West Allis,2
+West Milwaukee,2
+Beckley,2
+Martinsburg,2
+Ho Chi Minh,2
+Andorra la Vella,1
+Al Barsha,1
+Umm Al Quwain,1
+Avellaneda,1
+Ezeiza,1
+Moron,1
+Quilmes,1
+San Justo,1
+Tigre,1
+Tortuguitas,1
+Vicente Lopez,1
+Vosendorf,1
+Schwechat,1
+Manly,1
+Mt Druitt,1
+Parramatta,1
+Westmead,1
+Broadbeach,1
+Chermside,1
+Gold Coast,1
+Surfers Paradise,1
+Upper Mt Gravatt,1
+Wooloongabba,1
+Noord,1
+Narimonov,1
+Brugges,1
+Leuven,1
+Schaerbeek,1
+Liege,1
+Namur,1
+Burgas,1
+Bahrain,1
+الزينج,1
+Al Riffa,1
+سند,1
+Muharraq,1
+Brunei,1
+Brunei Muara District,1
+Mukim Kilanas,1
+Atrium Térreo,1
+Barueri,1
+Bauru,1
+Piracicaba,1
+Santo Andre,1
+Santos,1
+Sao Caetano,1
+Sao Jose dos Campos,1
+Sorocaba,1
+Brooks,1
+Hinton,1
+North Lethbridge,1
+Red Deer County,1
+Stony Plain,1
+Strathmore,1
+Wetaskiwin,1
+Aldergrove,1
+Castlegar,1
+Clearbrook,1
+Fernie,1
+Fort St John,1
+Gibsons,1
+Ladysmith,1
+Langely,1
+Merritt,1
+Parksville,1
+Pitt Meadows,1
+Port Alberni,1
+Prince Rupert,1
+Quesnel,1
+Revelstoke,1
+Salmon Arm,1
+Sechelt,1
+Smithers,1
+South Surrey,1
+Terrace,1
+vancouver,1
+West Kelowna,1
+Westbank,1
+Williams Lake,1
+Winfield,1
+Selkirk,1
+Thompson,1
+WINNIPEG,1
+Fredricton,1
+St Johns,1
+Brantford,1
+Brockville,1
+Carleton Place,1
+Cornwall,1
+Dryden,1
+Dundas,1
+Fort Frances,1
+George Town,1
+Grimsby,1
+Innisfil,1
+Kenora,1
+Kleinburg,1
+Lakeshore,1
+LaSalle,1
+Orangeville,1
+Parry Sound,1
+Port Credit,1
+Sarnia,1
+toronto,1
+Unionville,1
+Waterdown,1
+Anjou,1
+Boucherville,1
+Brossard,1
+Delson,1
+Dollard-des-ormeaux,1
+ILE PERROT,1
+Levis,1
+Mascouche,1
+Mont Tremblant,1
+Mont-Tremblant,1
+Point Claire,1
+Pointe Claire,1
+Rosemere,1
+SAINT-BRUNO,1
+Saint-Hubert,1
+Saint-Sauveur,1
+Sherbrooke,1
+St Laurent,1
+Ville Mont-Royal,1
+Westmount,1
+REGINA,1
+SASKATOON,1
+Swift Current,1
+Weyburn,1
+Aarau,1
+Baden,1
+Spreitenbach,1
+Biel,1
+Le Grand Saconnex,1
+Rapperswil,1
+Vevey,1
+Thalwil,1
+Wallisellen,1
+Chillan,1
+San Joaquin,1
+SANTIAGO,1
+张家口,1
+承德市,1
+邢台市,1
+邯郸,1
+抚顺市,1
+延吉市,1
+浦东新区,1
+Changshu,1
+Changzhou,1
+Nanjing,1
+吴江市,1
+姜堰市,1
+张家港,1
+张家港市,1
+扬中市,1
+海门市,1
+溧阳市,1
+连云港,1
+高邮市,1
+jin hua,1
+Jinhua,1
+Wenzhou,1
+Zhoushan,1
+东阳市,1
+乐清市,1
+余姚市,1
+兰溪市,1
+嘉兴,1
+嘉善市,1
+江山市,1
+萧山市,1
+蚌埠市,1
+漳州市,1
+东营市,1
+日照市,1
+泰安市,1
+十堰市,1
+襄樊市,1
+黄石市,1
+梅州市,1
+清远市,1
+肇庆市,1
+阳江市,1
+北海市,1
+儋州市,1
+乐山市,1
+贵阳市,1
+大理市,1
+咸阳市,1
+宝鸡市,1
+Central,1
+Chaiwan,1
+Fortress Hill,1
+Kowloon Bay,1
+Kowloon Tong,1
+Shantin,1
+Stanley,1
+Tai Koo Shing,1
+Tin Hau,1
+Tsuen Wan,1
+Tuen Mum,1
+BOGOTA,1
+Bogota,1
+BOGOTA DC,1
+Medellin,1
+Guachipelin,1
+Moravia,1
+SAN JOSE,1
+Limassol,1
+Larnaca,1
+Paphos,1
+Praha 5,1
+Baden-Baden,1
+Boeblingen,1
+Esslingen,1
+Karlsruhe,1
+LEONBERG,1
+Ludwigsburg,1
+MANNHEIM,1
+Erlangen,1
+Grafenwohr,1
+Bremen,1
+DARMSTADT,1
+Kassel,1
+Offenbach am Main,1
+Sulzbach,1
+VIERNHEIM,1
+WEITERSTADT,1
+Wiesbaden,1
+Braunschweig,1
+BRAUNSCHWEIG,1
+OSNABRUECK,1
+Soltau,1
+Aachen,1
+Bielefeld,1
+BOCHUM,1
+Cologne,1
+Dortmund,1
+Essen,1
+Leverkusen,1
+MUELHEIM,1
+MÜNSTER,1
+WUPPERTAL,1
+Niederzissen,1
+Koblenz,1
+Mainz,1
+Neustadt Wied,1
+Ramstein,1
+Spangdahlem,1
+Kiel,1
+Neumunster,1
+Leipzig,1
+LEIPZIG,1
+Erfurt,1
+Aalborg,1
+Aalborg SV,1
+Alborg,1
+Odense,1
+Greve,1
+Naestved,1
+Aarhus C,1
+Århus,1
+Kolding,1
+Vejle,1
+Aldaia,1
+Malanga,1
+Manises,1
+Mijas Costa,1
+Bilbao,1
+Loiu,1
+A Coruna,1
+A CORUNA,1
+Telde,1
+Palm,1
+Palma,1
+Las Tablas - Madrid,1
+MADRID,1
+Majadahonda,1
+San Sebastian de los Reyes,1
+Torrelodones,1
+Murcia,1
+San Sebastian,1
+Zargoza,1
+Espoo,1
+Mulhouse,1
+Strasbourg,1
+Begles,1
+Merignac,1
+Clermont Ferrand,1
+Dijon,1
+Brou,1
+Arcueil,1
+Chessy,1
+Nanterre,1
+PARIS,1
+plaisir,1
+Saint Germain en Laye,1
+Saint Quentin en Yvelines,1
+Serris,1
+Velizy-Villacoublay,1
+Montpellier,1
+Fenouillet,1
+Toulouse,1
+Coquelles,1
+Valenciennes,1
+Tours,1
+Tillé,1
+Cannes,1
+MARSEILLE,1
+marseille,1
+Mougins,1
+nice,1
+Nice,1
+Saint Laurent Du Var,1
+Villefranche sur Saone,1
+Grenoble,1
+Villeurbanne,1
+Almondsbury,1
+Altrincham,1
+Baldock,1
+Banbury,1
+Barnes,1
+Barnet,1
+Beverley,1
+Bexleyheath,1
+Bickerstaffe,1
+Bideford,1
+Birstall,1
+Bishop's Stortford,1
+Bishops Storford,1
+Blackburn,1
+Boldon,1
+Bracknell,1
+Brierley Hill,1
+Brighouse,1
+Broughton,1
+Burpham,1
+Bury,1
+Bury St Edmunds,1
+Chaltham,1
+Cheadle,1
+Chichester,1
+Chiswell Green,1
+Chiswick,1
+Cirencester,1
+Cleckheaton,1
+Cobham,1
+Cockermouth,1
+Corley,1
+Crewe,1
+Darlington,1
+Deal,1
+Dingestow,1
+Dudley,1
+East Grinstead,1
+Eastbourne,1
+Edgeware,1
+Elstree,1
+Ely,1
+Emsworth,1
+Epsom,1
+Exmouth,1
+Farnborough,1
+Feltham,1
+Fraddon,1
+Grantham,1
+Great Yarmouth,1
+Greenhithe,1
+Greenhithie,1
+Hailsham,1
+HAMMERSMITH,1
+Hampsire,1
+"Hanley, Stoke-on-Trent",1
+Harlow,1
+Harrogate,1
+Harrow,1
+Hayes,1
+Haywards Heath,1
+Headington,1
+Heathrow,1
+Hemel Hempstead,1
+Henley-on-Thames,1
+Hereford,1
+Hertford,1
+Hertfordshire,1
+Hertforshire,1
+Hexham,1
+High Wycombe,1
+Hitchin,1
+Hornchurch,1
+Horwich,1
+Houslow,1
+Hove,1
+Huntingdon,1
+Hyde,1
+Ilford,1
+Isle of Man,1
+Kidderminster,1
+KILBURN,1
+Kingston Upon Thames,1
+Lanarkshire,1
+Lancashire,1
+Leeds City Point,1
+London Colney,1
+Loughborough,1
+Loughton,1
+Lowestoft,1
+Maidenhead,1
+MARKET HARBOROUGH,1
+Marlow,1
+Middlesbrough,1
+Middlewich,1
+Mirfield,1
+Newbury,1
+Newcastle Under Lyme,1
+Newcastle upon Tyne,1
+North Cheam,1
+Nr Filey,1
+nr Stroud,1
+Ormskirk,1
+Orpington,1
+Oswestry Gateway,1
+Pevensey,1
+Pinner,1
+Pocklington,1
+Poole,1
+Quinton,1
+Reigate and Banstead,1
+Rivenhall South,1
+Rochdale,1
+Ross on Wye,1
+Runcorn,1
+Safron Walden,1
+Saughall,1
+Shoreham By Sea,1
+Shropshire,1
+Sittingbourne,1
+Skipton,1
+Slough,1
+South Shields,1
+South Wirral,1
+Southend on Sea,1
+Southport,1
+Southwark,1
+Spalding,1
+St Albans,1
+St Leonard's,1
+St. Albans,1
+STAFFORD,1
+Stansted,1
+Stevenage,1
+Stockport,1
+Stratford upon Avon,1
+Sunderland,1
+Surbiton,1
+Sutton Coldfield,1
+Tameside,1
+Taplow,1
+Teddington,1
+Telford,1
+Tewkesbury,1
+Thetford,1
+Thinford,1
+Thurrock,1
+Tonbridge,1
+Torquay,1
+Trowbridge,1
+Truro,1
+Tunbridge Wells,1
+Twickenham,1
+Wallasey,1
+Waltham Cross,1
+Walton on Thames,1
+Wandsworth,1
+Wanstead,1
+Wednesbury,1
+Wellingborough,1
+Welwyn Garden City,1
+West Thurrock,1
+West Yorkshire,1
+Weston Super Mare,1
+Weybridge,1
+Whitchurch,1
+Whiteley,1
+Whitton,1
+Wilmslow,1
+Wiltshire,1
+Winchster,1
+Wisbech,1
+Woolwich,1
+Yate,1
+Yeovil,1
+Antrim,1
+Banbridge,1
+Coleraine,1
+Craigavon,1
+Newry,1
+Dumbarton,1
+Dumfermline,1
+Dundee,1
+Dunfermline,1
+East Kilbride,1
+Edingurgh,1
+Falkirk,1
+Larbert,1
+Linwood,1
+Perth,1
+Prestwick,1
+St Andrews,1
+Ceredigion,1
+Cwmbran,1
+Glamorgan,1
+Llandudno,1
+Monmouth,1
+Pontyclun,1
+Pwllheli Gwynedd,1
+Chalandri,1
+Glyfada,1
+Kalithea,1
+Piraeus,1
+Mykonos,1
+Rhodes,1
+Crete,1
+San Jose Pinula,1
+Kuta,1
+Depok,1
+Puncak,1
+Jakarta Pusat,1
+Karawang,1
+Surakarta,1
+Cilegon,1
+Cirebon,1
+East Jakarta,1
+JAKARTA,1
+Jogyakarta,1
+Kecamatan Taman Sari,1
+Malang,1
+Solo,1
+YOGYAKARTA,1
+Samarinda,1
+Mataram,1
+Nusa Dua,1
+Seminyak,1
+Lampung,1
+Bray,1
+Cork City,1
+Douglas,1
+Dublin 2,1
+Galway,1
+Kilkenny,1
+Lucan,1
+Arklow Co Wicklow,1
+Athlone,1
+Cabinteely Dublin,1
+Drogheda,1
+Howth,1
+Malahide,1
+Newbridge,1
+Swords,1
+Navi Mumbai,1
+Noida,1
+Irbid,1
+Chitose,1
+Kitahiroshima,1
+Tomakomai,1
+Goshogawara,1
+Hirosaki,1
+Oirasecho,1
+Iwate,1
+Ishinomaki,1
+Mori,1
+Tagajo,1
+Taihaku-ku,1
+Tomiya-machi,1
+Daisen,1
+Sakata,1
+Tendo,1
+Kamisu,1
+Ryugasaki,1
+Shimotsuma,1
+Toride,1
+Ushiku,1
+Kanuma,1
+Mibu-machi,1
+Mouka,1
+Shimotsuke,1
+Utsunomi,1
+Annaka,1
+Yoshioka-machi,1
+330-9501,1
+Ageo,1
+Asaka,1
+Fujimi,1
+Fujinimo,1
+Hanno,1
+Hasuda,1
+Hidaka,1
+Higashimatsuyama,1
+Iruma,1
+Kawajima-machi,1
+Kumagaya,1
+Misato,1
+Miyoshi-machi,1
+Namegawamachi,1
+Niiza,1
+Sakado,1
+Soka,1
+Tsurugashima,1
+Warabi,1
+Futtsu,1
+Haga-machi,1
+Ichihara,1
+Ichikawa,1
+Kamagaya,1
+Katori,1
+Nagareama,1
+Sakura,1
+Tomisato,1
+Yotsukaido,1
+2-3-6 Kyonancho,1
+Akishima,1
+Edogawa-ku,1
+Fuchu,1
+Fussa,1
+Inagi,1
+Kiyose,1
+Kokubunji,1
+Kunitachi,1
+Mizuho-cho,1
+Nakano-ku,1
+Ome,1
+Setabaya-ku,1
+Shibuya,1
+438-1 Fujisawa,1
+Chigasaki,1
+Hadano,1
+Hayama-machi,1
+Minamiashigara,1
+Zushi,1
+Jyoetsu,1
+Shibata,1
+Oyabe,1
+Ishikawa,1
+Kahoku,1
+Matto,1
+Nonoichi,1
+Minamiechizen-cho,1
+Fujiyoshida,1
+Kai,1
+Azumino,1
+Karuizawa-machi,1
+Okaay,1
+Saku,1
+Ena,1
+Hashima,1
+Kakamigahara,1
+Motosu,1
+Ogaki,1
+Seki,1
+Takayama,1
+Fujieda,1
+Fujinomiya,1
+Gotemba,1
+Iwata,1
+Mishima,1
+Numazu,1
+Oyama-cho,1
+Chiryu,1
+Fuso-cho,1
+Inazawa,1
+Kisogawacho,1
+Konan,1
+Nagakute,1
+Nishio,1
+Nisshin,1
+Obu,1
+Tokai,1
+Toyokawa,1
+Hisai,1
+Ise,1
+Meiwa-cho,1
+Suzuka,1
+Szuka,1
+Toin-cho,1
+Tsu,1
+Hikone,1
+Koka,1
+Nagahama,1
+Oumihachiman,1
+Ryuo-cho,1
+Shiga,1
+Kumiyama-cho,1
+Kyotanabe,1
+Shimogyo-ku,1
+Daito,1
+Ikeda,1
+Izumi,1
+Kishiwada,1
+Kizugawa,1
+Moriguchi,1
+Sennan,1
+Shijonawate,1
+Yao,1
+Awaji,1
+Kakogawa,1
+Kasai,1
+Kawanishi,1
+Takarazuka,1
+Ikoma,1
+Kawai-cho,1
+Yamatotakada,1
+Wakaayma,1
+Yonago,1
+Matsue,1
+Fuchu-cho,1
+Higashihiroshima,1
+Sanyoonoda,1
+Yamaguchi,1
+Aizumi-cho,1
+Hama,1
+Miki-cho,1
+Imabari,1
+Masaki-cho,1
+Niihama,1
+Chikushino,1
+Fukukoka,1
+Fukutsu,1
+Kasuga,1
+Kasuya-machi,1
+Kiatakyusyu,1
+Nogata,1
+Omuta,1
+Shingu-machi,1
+Yatsushiro,1
+Kiyama-cho,1
+Takeo,1
+Kashimamachi,1
+Beppu,1
+Yufu,1
+Miyzaki,1
+Ginowan,1
+Ishigaki,1
+Kitanakagusukuson,1
+Nishihara-cho,1
+Tomigusuku,1
+Uruma,1
+Yomitanson,1
+seocho-gu,1
+Soul,1
+Busan-si,1
+DAEGU,1
+Gwagju,1
+Daejeon-si,1
+DaejeonDaejeon,1
+Ansan-si,1
+Ansung,1
+Bucheon-si,1
+Dongducheon,1
+Dukyang,1
+Geonggi-do,1
+"Giheung-gu,Yongin",1
+Gimpo-si,1
+Goyang-si Gyeonggi-do,1
+Goyangsi,1
+Gwacheon,1
+Hwaseong-si,1
+Hwasung,1
+Hwasung-si,1
+Ilsan,1
+Paju,1
+Pocheon-si,1
+Pyeongtaek,1
+Pyeongtek-si,1
+Siheung,1
+Sungnam,1
+Uijeongbu-si,1
+Yangju-si,1
+1~2F,1
+Choonchun,1
+Chuncheonsi,1
+Donghae-si,1
+Gosung-gu,1
+Sokcho,1
+Sokcho-si,1
+wonju-si,1
+Cheongju-si,1
+cheongju-si,1
+Chungbuk,1
+Asan-si,1
+Chungcheongnam-do,1
+Dangjin,1
+Gongju,1
+Nonsan-si,1
+Sejong si,1
+Seosan,1
+충청남도,1
+"Jeonju-si,",1
+Gwangyang,1
+Jellanamdo,1
+Jeonlanamdo,1
+naju,1
+Suncheon,1
+Gumi,1
+GYEONBUK,1
+Gyeongju,1
+Gyeongsangbukdo,1
+Kimcheon-si,1
+Mungyeong-si,1
+Pohang,1
+Pohangsi,1
+Seokjeon,1
+경북,1
+Geoje-si,1
+Gyeongnam,1
+Jinju,1
+Sacheon-si,1
+Tongyeong,1
+Yangsan,1
+Jeiju,1
+jeju,1
+"Jeju-si,",1
+Abu Halifa,1
+Ahmadi,1
+Al Riqqa,1
+Mubarak Al Kabeer,1
+Farwaniya,1
+Jabriya,1
+Khaitan,1
+Hawalli,1
+Messilah,1
+Mushrif,1
+Ardiya,1
+Egella,1
+Jahra,1
+Shuwaikh,1
+Sulaibikhat,1
+Masela,1
+Mubarak Al-Kabeer,1
+Mubrak Al Kabeer,1
+Mega Park,1
+Mansourieh,1
+Nabatieh,1
+Saida,1
+اشرفية,1
+جال الديب,1
+جناح,1
+جية,1
+زلقة,1
+عين مريسة,1
+غزير,1
+متن الشمالى,1
+Chtaura,1
+Sour,1
+Berchem,1
+Luxembourg-Findel,1
+Marrakech,1
+Marrakesh,1
+TIJUANA,1
+Cabo San Lucas,1
+San Jose del Cabo,1
+CAMPECHE,1
+Ciudad del Carmen,1
+Monclova,1
+Colima,1
+Manzanillo,1
+Ciudad de Mexico,1
+Mexico D.F,1
+México DF,1
+Gomez Palacio,1
+ACAPULCO,1
+Guanajuato,1
+Salamanca,1
+San Miguel de Allende,1
+Siloa,1
+Tlajomulco,1
+Tlaquepaque,1
+Lazaro Cardenas,1
+Atizapan de Zaragoza,1
+Ecatepec,1
+"Ecatepec, Edo. de Mex.",1
+EDO MEX,1
+Edo Mex,1
+Edo Mexico,1
+ESTADO DE MEXICO,1
+Medepec,1
+Municipio de Huixquilucan,1
+"San Cristobal Centro, EDO MEX",1
+Tlalnepantla,1
+Tlalnepantla de Baz,1
+Nuevo Leon,1
+Oaxaca,1
+Can Cun,1
+Cancun Q Roo,1
+COZUMEL,1
+Cozumel,1
+Quintana Roo,1
+Tulum,1
+Los Mochis,1
+MAZATLAN,1
+Ciudad Obregon,1
+Ciudad Victoria,1
+Reynosa,1
+BOCA DEL RIO VERACRUZ,1
+Xalapa,1
+Xalapa Enriquez,1
+"Bandar Kluang, Kluang",1
+Bayu Senibong,1
+Johor Bharu,1
+Kulai Johor,1
+Kulaijaya,1
+Muar,1
+MUKIM PLENTONG,1
+Nusajaya,1
+Segamat Johor,1
+Taman Molek,1
+Sungai Petani,1
+Melaka Tengah,1
+Port Dickson,1
+Seremban,1
+Cameron Highlands,1
+Genting Highlands,1
+Pahang,1
+Butterworth,1
+Komtar,1
+Perai,1
+Kampar,1
+Seri Manjung,1
+Mukim Petaling,1
+Petaling Jaya Selangor,1
+Shad Alam,1
+Ulu Langat,1
+Sabah,1
+Bintulu,1
+Kota Samarahan,1
+Miri Sarawak,1
+Sibu,1
+Balakong,1
+Cheras,1
+KL,1
+Kuala Lumpur Sentral,1
+Labuan,1
+Johor,1
+Arnhem,1
+Nijmegen,1
+'s-Hertogenbosch,1
+Breda,1
+Tilburg,1
+Amstelveen,1
+Haarlem,1
+Hilversum,1
+Rijsenhout,1
+Deventer,1
+Enschede,1
+Zwolle,1
+Amersfoort,1
+Breukelen,1
+De Meern,1
+Harmelen,1
+Delft,1
+Dordrecht,1
+Leiden,1
+Meerkerk,1
+Rijswijk,1
+Jessheim,1
+Sandvika,1
+Gardermoen,1
+Drammen,1
+Stavanger,1
+Stjørdal,1
+Invercargill,1
+Napier,1
+Rotorua,1
+Taranaki,1
+Tauranga,1
+Christchurch,1
+Cajamarca,1
+Ica,1
+Huancayo,1
+Chiclayo,1
+Breña,1
+Callao - Lima,1
+Chimbote,1
+LIMA,1
+Surco,1
+Las Pinas,1
+Mandaluyong,1
+Muntinlupa,1
+Pasay,1
+Pasig,1
+Valenzuela City,1
+Dagupan,1
+General Santos,1
+Balanga,1
+Baliwag,1
+Cabanatuan City,1
+Guiguinto,1
+Lapu-Lapu City,1
+Malolos,1
+Mexico Pampanga,1
+San Jose Del Monte,1
+Davao City,1
+Malay,1
+Talisay,1
+CEBU,1
+Cebu,1
+Lapu Lapu,1
+Mandaue City,1
+Naga City,1
+Angono,1
+Antipolo City,1
+Bacoor,1
+Batangas City,1
+Cainta,1
+Cavite City,1
+General Trias Cavite,1
+Imus,1
+Sta Rosa,1
+Sta. Rosa,1
+Taytay,1
+Newport City,1
+Calamba City,1
+Iloilo,1
+Bielany Wroclawskie,1
+Wroclaw,1
+Łódź,1
+Krakow,1
+Sopot,1
+Caguas,1
+Condado,1
+Dorado,1
+Fajardo,1
+Ponce,1
+Almada,1
+Amadora,1
+Carnaxide,1
+Cascais,1
+Vila Nova de Gaia Porto,1
+Abu Hamour,1
+Brasov,1
+Cluj,1
+Cluj-Napoca,1
+Craiova,1
+Ploiesti,1
+Sochi,1
+Khimki,1
+Krasnogorsk,1
+Mytischi,1
+"Moscow Region, Khimki",1
+Samara,1
+S-Petersburg,1
+Saint-Petersbug,1
+Yekaterinburg,1
+Yaroslavl,1
+AL KHARJ,1
+Khobar,1
+الخرج,1
+Madina,1
+Makkah,1
+Taif,1
+الطائف,1
+الهفوف,1
+Al-Dammam,1
+الظهران,1
+Dammam,1
+Tabouk,1
+Kista,1
+Soderby,1
+Sollentuna,1
+Solna,1
+Stolkholm - Arlanda,1
+Taby,1
+Täby,1
+Uppsala,1
+Gothenburg,1
+Vasteras,1
+Sentosa Island,1
+La Libertad,1
+Bangkae,1
+Bangkhorlaem,1
+Bangkhuntien,1
+Bangluck,1
+Bangna,1
+Chatujak,1
+Chomthong,1
+Dusit,1
+Kannayao,1
+Khannayao,1
+Klong-toey Nua,1
+Klongklum,1
+Klongsan,1
+Klongtey,1
+klongtoey,1
+Ladprao,1
+Lardprao,1
+Phasi Charoen,1
+Phranakorn,1
+Pomprabsutrupai,1
+Prakanong,1
+Pranakorn,1
+Rajthewi,1
+Saimai,1
+Saphansung,1
+Saraburi,1
+Saunlaung,1
+Suanluang,1
+Talingchan,1
+Thonburi,1
+Wangthonglang,1
+Bang Plea,1
+Samut Prakan,1
+Bang Kruai,1
+Lanksi,1
+Thunburi,1
+Ayutthaya,1
+Lopburi,1
+Chon Buri,1
+Muang Rayong,1
+Rayong,1
+Muang Nakhonratchasima,1
+Nakhon Ratchasima,1
+Pakchong,1
+Burirum,1
+Surin,1
+Muang Ubon Ratchathani,1
+Ubon Ratchathani,1
+Khon Kaen,1
+Muang Udon Thani,1
+"Muang,",1
+Maha Sarakham,1
+Roi Et,1
+Chaing Mai,1
+Chiangmai,1
+Muang Chiangmai,1
+Muang Chiangrai,1
+Nakhonsawan,1
+Muang Phitsanulok,1
+Ratchaburi,1
+Prachuap Khirikhan,1
+Nakhonsithamarat,1
+Muang Krabi,1
+Katu,1
+Kratoo,1
+Koh Samui,1
+Surat Thani,1
+Hatyai,1
+Songkhla,1
+Afyon,1
+Afyonkarahisar,1
+Cankaya,1
+Yenimahalle Merkez,1
+Susurluk,1
+Osmangazi,1
+Denizli,1
+Tepebasi,1
+Isparta,1
+Mersin (Icel),1
+Mersin Icel,1
+Beyoglu,1
+Bolu,1
+Instanbul - Asya,1
+Pendik,1
+Tekirdag,1
+Izmit,1
+Kocaeli (Izmit),1
+Chaguanas,1
+Port of Spain,1
+Changhua County,1
+Lukang Township,1
+Yuanlin Township,1
+Taibao City,1
+Hualien County,1
+Luodong Township,1
+Yilan County,1
+Kaohsiung,1
+Miaoli County,1
+Toufen Township,1
+Xihu Township,1
+Nantou,1
+Puli Township,1
+Tainan,1
+Jinhu Township,1
+Hengchun Township,1
+Pingtung County,1
+Bade City,1
+Dayuan Township,1
+Longtan Township,1
+Taoyuan,1
+Taipei,1
+New Taipei city,1
+Taitung City,1
+Taichung,1
+Taichung city,1
+Douliu City,1
+Xiluo Township,1
+Fort Richardson,1
+Fort Wainwright,1
+Homer,1
+Ketchikan,1
+Kodiak,1
+North Pole,1
+Seward,1
+Bessemer,1
+Cullman,1
+Daphne,1
+Dothan,1
+Foley,1
+Fultondale,1
+Gadsden,1
+Gardendale,1
+Gulf Shores,1
+Mountain Brook,1
+Orange Beach,1
+Spanish Fort,1
+Trussville,1
+Arkadelphia,1
+Bryant,1
+Fort Smith,1
+Hot Springs,1
+"Little Rock,",1
+Maumelle,1
+Mountain Home,1
+North Little Rock,1
+North LIttle Rock,1
+Russellville,1
+Van Buren,1
+Benson,1
+Bisbee,1
+Buckeye,1
+CAREFREE,1
+CHANDLER,1
+Chino Valley,1
+Coolidge,1
+Cottonwood,1
+Fort Huachuca,1
+Gold Canyon,1
+GOODYEAR,1
+Green Valley,1
+Higley,1
+Morenci,1
+Page,1
+PHOENIX,1
+SCOTTSDALE,1
+Show Low,1
+TEMPE,1
+Thatcher,1
+Tolleson,1
+Tuscon,1
+Wickenburg,1
+WILLCOX,1
+Williams,1
+Adelanto,1
+Agoura,1
+Agoura Hills,1
+AHAHEIM,1
+ALHAMBRA,1
+Alpine,1
+Angels Camp,1
+Antelope,1
+ARCADIA,1
+Artesia,1
+Arvin,1
+BAKERSFIELD,1
+Bell,1
+Bell Gardens,1
+Blue Jay,1
+Blythe,1
+BLYTHE,1
+Buellton,1
+Buttonwillow,1
+Byron,1
+Calexico,1
+Calimesa,1
+CANOGA PARK,1
+Canyon Country,1
+Carpinteria,1
+Chowchilla,1
+Coachella,1
+Coalinga,1
+Colfax,1
+Corning,1
+Corona Del Mar,1
+Coronado,1
+Cotati,1
+Crescent City,1
+Delano,1
+Desert Hot Springs,1
+Dinuba,1
+Eastvale,1
+El Sobrante,1
+Escalon,1
+Fillmore,1
+Foothill Ranch,1
+Fort Irwin,1
+Fortuna,1
+Fowler,1
+Ft. Irwin,1
+GLENDALE,1
+Gold River,1
+Greenbrae,1
+Gridley,1
+Grover Beach,1
+Guerneville,1
+Gustine,1
+Half Moon Bay,1
+Hawaiian Gardens,1
+Irwindale,1
+Isla Vista,1
+Kerman,1
+Kettleman City,1
+King City,1
+Kings Beach,1
+Kingsburg,1
+La Puente,1
+LA VERNE,1
+Laguna Woods,1
+Lake Isabella,1
+Lakeport,1
+Larkfield,1
+Larkspur,1
+Lawndale,1
+Lebec,1
+Lemoore,1
+Lindsay,1
+Loomis,1
+Los Alamitos,1
+LOS ANGELES,1
+Los Osos,1
+Marina del Rey,1
+McKinleyville,1
+Mira Loma,1
+Mission Hills,1
+MISSION VIEJO,1
+Monterey Park,1
+Morro Bay,1
+Murrietta,1
+NAS Lemoore,1
+Newbury Park,1
+North Highland,1
+Ojai,1
+Olympic Valley,1
+Orcutt,1
+Orland,1
+Oroville,1
+OXNARD,1
+Pacific Beach,1
+Pacific Grove,1
+Palm Dessert,1
+Panorama City,1
+Pismo Beach,1
+Placentia,1
+Playa Vista,1
+PLEASANTON,1
+Point Richmond,1
+Pollock Pines,1
+Port Hueneme,1
+Rancho Bernardo,1
+RANCHO BERNARDO,1
+Rancho Cucamunga,1
+Reedley,1
+Ripon,1
+Rolling Hills,1
+Rosamond,1
+San Anselmo,1
+SAN BERNARDINO,1
+SAN FRANCISCO,1
+SAN FRANCISCO INTL A,1
+San Gabriel,1
+San Lorenzo,1
+SAN LUIS OBISPO,1
+San Marino,1
+SAN MATEO,1
+San Ysidro,1
+SanDiego,1
+Sanger,1
+SANTA BARBARA,1
+SANTA ROSA,1
+SEAL BEACH,1
+Sierra Madre,1
+Soledad,1
+SOUTH CORONA,1
+South El Monte,1
+South Gate,1
+Stanford,1
+Stanton,1
+Stevenson Ranch,1
+Suisun City,1
+Sunland,1
+Sylmar,1
+Taft,1
+Temple City,1
+THOUSAND OAKS,1
+Travis AFB,1
+Twentynine Palms,1
+Valley Center,1
+Valley Springs,1
+West covina,1
+Westlake Village,1
+Willits,1
+Willows,1
+Yreka,1
+YUCAIPA,1
+Yucca Valley,1
+Alamosa,1
+Aspen,1
+Basalt,1
+Bennett,1
+Blackhawk,1
+Breckenridge,1
+BROOMFIELD,1
+Canon City,1
+Castle Rocks,1
+Copper Mountain,1
+Cortez,1
+Craig,1
+DENVER,1
+Dumont,1
+El Jebel,1
+Falcon,1
+Federal Heights,1
+Fort Lupton,1
+Fort Morgan,1
+Fraser,1
+Ft Collins,1
+Ft. Collins,1
+Gunnison,1
+Hghlands Ranch,1
+Idaho Springs,1
+Keystone,1
+LONE TREE,1
+Pagosa Springs,1
+Peterson AFB,1
+Pueblo West,1
+Salida,1
+Sheridan,1
+Silverthorne,1
+Snowmass Village,1
+Telluride,1
+Tinmath,1
+Trinidad,1
+Ansonia,1
+Bethel,1
+Bridgeport,1
+Cos Cob,1
+DANBURY,1
+Dayville,1
+FARMINGTON,1
+Hamden,1
+Ledyard,1
+Mashantucket,1
+Meriden,1
+Montville,1
+Mystic,1
+New Canaan,1
+New Fairfield,1
+New Milford,1
+Old Saybrook,1
+Ridgefield,1
+Rocky Hill,1
+Seymour,1
+Simsbury,1
+Southbury,1
+Storrs,1
+Trumball,1
+Uncasville,1
+Wallingford,1
+Wethersfield,1
+Wilton,1
+Bolling AFB,1
+Hockessin,1
+Selbyville,1
+Bay Lake,1
+Belle Isle,1
+Bonita Springs,1
+BRANDON,1
+Brooksville,1
+Callaway,1
+Captiva,1
+Celebration,1
+Crestview,1
+Daytona Beach Shores,1
+Deland,1
+Eglin AFB,1
+Ellenton,1
+Fernandina Beach,1
+Florida City,1
+Ft Myers,1
+Hallandale Beach,1
+Homestead,1
+Indialantic,1
+Indian Harbor Beach,1
+Islamorada,1
+Jacksonville Mandarin,1
+Kendall,1
+Key Biscayne,1
+Key Largo,1
+LAKE BUENA VISTA,1
+Lake City,1
+Lake Park,1
+Land O Lake,1
+Lauderhill,1
+Longwood,1
+Lynn Haven,1
+MacClenny,1
+Maitland,1
+Marco Island,1
+Margate,1
+Melbourne Village,1
+MIami,1
+Miami Gardens,1
+Miami Lakes,1
+Miami Shores,1
+Miami Springs,1
+Miramar Beach,1
+Naval Station Pensacola,1
+Neptune Beach,1
+Newberry,1
+North Miami,1
+North Miami Beach,1
+North Port,1
+Oakland Park,1
+Ocoee,1
+Oldsmar,1
+Pace,1
+Palm Bay,1
+PALM BEACH GARDENS,1
+Palm City,1
+Palmetto Bay,1
+Parkland,1
+Plant City,1
+Ponte Vedra,1
+Ponte Vedra Beach,1
+Port Richey,1
+Rockledge,1
+Safety Harbor,1
+Sebring,1
+South Beach,1
+St Augustine,1
+Sunny Isles Beach,1
+Surfside,1
+Tarpon Springs,1
+The Villages,1
+Town of Southwest Ranches,1
+Trinity,1
+Viera,1
+West Palm,1
+Wilton Manors,1
+Winter Haven,1
+WINTER PARK,1
+Winter Springs,1
+ALPHARETTA,1
+ATHENS,1
+Austell,1
+Blairsville,1
+Blue Ridge,1
+Bonaire,1
+Buckhead,1
+Calhoun,1
+Clarkesville,1
+Cornelia,1
+Dahlonega,1
+Dawsonville,1
+Fairburn,1
+Flowery Branch,1
+Fort Benning,1
+Ft Benning,1
+Ft. Benning,1
+Gainsville,1
+Gray,1
+GRIFFIN,1
+Griffin,1
+Hiawassee,1
+Hinesville,1
+Jasper,1
+Jefferson,1
+Johns Creek,1
+Lilburn,1
+Lookout Mountain,1
+Moultrie,1
+Peachtree Corners,1
+Pooler,1
+Rincon,1
+St Simon's Island,1
+Stone Mountain,1
+Sugar Hill,1
+Tifton,1
+Waycross,1
+West Marietta,1
+Kahului Airport,1
+Kamuela,1
+Kapaa,1
+Koloa,1
+Kona,1
+Pearl City,1
+Pukalani,1
+Schofield Barracks,1
+Triple Army Medical Center,1
+Waianae,1
+Waikoloa,1
+Wailea,1
+Wailuku,1
+Council BLuffs,1
+Fort Dodge,1
+Fort Madison,1
+Marshalltown,1
+Ottumwa,1
+Spencer,1
+Spirit Lake,1
+West Burlington,1
+WEST DES MOINES,1
+Windsor Heights,1
+Bonners Ferry,1
+Couer d'Alene,1
+Emmett,1
+Hailey,1
+Hayden,1
+Ketchum,1
+Kuna,1
+Lewiston,1
+Ponderay,1
+Post Falls,1
+Bedford Park,1
+Bensenville,1
+Berwyn,1
+Burr Ridge,1
+Calumet City,1
+Carol Stream,1
+Chicago Ridge,1
+Clarendon Hills,1
+Collinsville,1
+East Peoria,1
+Effingham,1
+Elburn,1
+Flossmoor,1
+Fox River Grove,1
+Galesburg,1
+Glencoe,1
+Grayslake,1
+Hainesville,1
+Hanover Park,1
+Harwood Heights,1
+Highwood,1
+Hillside,1
+HUNTLEY,1
+Huntley,1
+Itasca,1
+Lake In The Hills,1
+Lincolnwood,1
+Lyons,1
+Machesney Park,1
+McHenry,1
+Melrose Park,1
+Merrionette Park,1
+Minooka,1
+MOLINE,1
+Morris,1
+Morton,1
+Morton Grove,1
+MT. VERNON,1
+North Riverside,1
+Oak Forest,1
+Oakbrook,1
+Oakbrook Terrace,1
+OFallon,1
+ORLAND PARK,1
+Oswego,1
+Palos Heights,1
+Pekin,1
+Roselle,1
+SCHAUMBURG,1
+SKOKIE,1
+South Holland,1
+Streator,1
+TAYLORVILLE,1
+URBANA,1
+Volo,1
+West Chicago,1
+West Dundee,1
+Western Springs,1
+Westmont,1
+Willowbrook,1
+Winnetka,1
+Brownsburg,1
+Camby,1
+Chesterton,1
+Crown Point,1
+Dyer,1
+ELKHART,1
+Ft Wayne,1
+Gas City,1
+Greencastle,1
+INDIANAPOLIS,1
+Kokomo,1
+Logansport,1
+Martinsville,1
+Michigan City,1
+Nappanee,1
+Schereville,1
+SOUTH BEND,1
+Valaparaiso,1
+Whitestown,1
+Zionsville,1
+Colby,1
+Emporia,1
+Fort Leavenworth,1
+Ft. Riley,1
+Lenexa,1
+Merriam,1
+OVERLAND PARK,1
+Witchita,1
+Bardstown,1
+Cold Spring,1
+Crestview Hills,1
+Fort Campbell,1
+FORT CAMPBELL,1
+Fort Knox,1
+Fort Mitchell,1
+Highland Heights,1
+Hopkinsville,1
+LaGrange,1
+Morehead,1
+Nicholasville,1
+Paducah,1
+Prospect,1
+Shepherdsville,1
+St Matthews,1
+Walton,1
+BATON ROUGE,1
+Broussard,1
+Ft. Polk,1
+Gretna,1
+Harahan,1
+Harvey,1
+Houma,1
+Marrero,1
+Metarie,1
+New Iberia,1
+River Ridge,1
+Ruston,1
+Sulphur,1
+Thibodaux,1
+Acton,1
+Athol,1
+Billerica,1
+Bourne,1
+BRAINTREE,1
+BURLINGTON,1
+Chelsea,1
+Chicopee,1
+Cohasset,1
+Danvers,1
+Dorchester,1
+East Longmeadow,1
+Hadley,1
+Harwich,1
+Lanesboro,1
+Longmeadow,1
+LUDLOW,1
+Lynn,1
+Lynnfield,1
+Marblehead,1
+Medfield,1
+Medway,1
+Melrose,1
+NATICK,1
+Needham,1
+Newburyport,1
+Newton Centre,1
+Newtonville,1
+North Andover,1
+North Attleboro,1
+North Reading,1
+Northborough,1
+PEABODY,1
+Revere,1
+South Brookline,1
+South Dennis,1
+Southborough,1
+Stoughton,1
+Swampscott,1
+Waban,1
+Walpole,1
+Wareham,1
+Wayland,1
+West Roxbury,1
+Westboro,1
+Westford,1
+Accokeek,1
+Andrews AFB,1
+ANNAPOLIS,1
+Beltsville,1
+BOWIE,1
+Burtonsville,1
+California,1
+Carney,1
+Catonsville,1
+Darnestown,1
+Elkridge,1
+Fort Meade,1
+Fort Washington,1
+Frostburg,1
+Jessup,1
+Joint Base Andrews,1
+Lanham,1
+Linthicum Heights,1
+Lusby,1
+New Carrollton,1
+North Bethesda,1
+Odenton,1
+Oxon Hill,1
+Perry Hall,1
+Takoma Park,1
+TOWSON,1
+Upper Marlboro,1
+Westminister,1
+White Marsh,1
+Biddeford,1
+Freeport,1
+Kennebunk,1
+kennebunk,1
+Kittery,1
+Saco,1
+West Gardiner,1
+Adrian,1
+Alma,1
+ANN ARBOR,1
+Ann Arbor East,1
+Bay City,1
+Birch Run,1
+Boyne City,1
+Brownstown,1
+Byron Center,1
+Clinton Pointe,1
+Commerce Township,1
+Davison,1
+DETROIT,1
+East Grand Rapids,1
+Frenchtown Township,1
+Grand Blanc,1
+Grosse Ile,1
+Harper Woods,1
+Hudsonville,1
+Jenison,1
+Kentwood,1
+Lake Orion,1
+Lambertville,1
+Lapeer,1
+Lincoln Park,1
+Mackinac City,1
+Mackinac Island,1
+Macomb Township,1
+Marshall,1
+New Hudson,1
+NOVI,1
+Orchard Lake,1
+Orion Township,1
+Petoskey,1
+Pittsfield Township,1
+Redford,1
+SHELBY TOWNSHIP,1
+South Lyon,1
+TROY,1
+Utica,1
+Walker,1
+West Bloomfield,1
+Williamston,1
+Zeeland,1
+Anoka,1
+Arden Hills,1
+Bemidji,1
+Brooklyn Center,1
+Chaska,1
+Crystal,1
+Elk River,1
+Excelsior,1
+Fridley,1
+Golden Valley,1
+Hastings,1
+Hopkins,1
+Inver Grove Heights,1
+Lino Lakes,1
+Monticello,1
+North Maplewood,1
+Oak Park Heights,1
+Otsego,1
+Red Wing,1
+Rosemount,1
+Shakopee,1
+St Cloud,1
+St Louis Park,1
+Virginia,1
+Waconia,1
+Waite Park,1
+Wayzata,1
+West St. Paul,1
+Winona,1
+Affton,1
+Bridgeton,1
+Dardenne,1
+DES PERES,1
+Ferguson,1
+Ft. Leonard Wood,1
+GRANDVIEW,1
+Harrisonville,1
+Hazelwood,1
+Kirksville,1
+Kirkwood,1
+Ladue,1
+Lake St. Louis,1
+Nixa,1
+Olivette,1
+Ozark,1
+PLATTE CITY,1
+Republic,1
+Rolla,1
+Saint Louis,1
+Sedalia,1
+ST. LOUIS,1
+St. Robert,1
+Sunset Hills,1
+Town and Country,1
+Valley Park,1
+Warrensburg,1
+Webb City,1
+Webster Groves,1
+Wildwood,1
+Gulfport,1
+Hernando,1
+Horn Lake,1
+Keesler AFB,1
+Mississippi State,1
+Ocean Springs,1
+Ridgeland,1
+Southhaven,1
+Tunica,1
+Belgrade,1
+Butte,1
+MISSOULA,1
+Polson,1
+Whitefish,1
+ASHEVILLE,1
+Black Mountain,1
+Boone,1
+Brevard,1
+Buies Creek,1
+Camp Lejenue,1
+Candler,1
+CARY,1
+Cashiers,1
+CHARLOTTE,1
+Clemmons,1
+Corolla,1
+Cullowhee,1
+Davidson,1
+Elizabeth City,1
+Flat Rock,1
+Fletcher,1
+Forest City,1
+Fuquay-Varina,1
+Hayesville,1
+Indian Trail,1
+Kill Devil Hills,1
+Kings Mountain,1
+Kitty Hawk,1
+Leland,1
+Lincolnton,1
+Lumberton,1
+Mebane,1
+Mills River,1
+Mint Hill,1
+Morehead City,1
+Morganton,1
+North Charlotte,1
+Pembroke,1
+Pinehurst,1
+Roanoke Rapids,1
+Rocky Mount,1
+Shelby,1
+Statesville,1
+Swannanoa,1
+Blair,1
+Grand Island,1
+North Platte,1
+OMAHA,1
+Plattsmouth,1
+Scottsbluff,1
+Greenland,1
+Merrimack,1
+North Conway,1
+SALEM,1
+Seabrook,1
+Somersworth,1
+Tilton,1
+Absecon,1
+Barnegat,1
+Basking  Ridge,1
+Bayonne,1
+Bedminster,1
+Bellmar,1
+Bernardsville,1
+Boonton,1
+Bordentown,1
+Branchburg,1
+Brick,1
+Camden,1
+Cedar Knolls,1
+CHERRY HILL,1
+Clark,1
+Clementon,1
+Closter,1
+CLOSTER,1
+Delran,1
+East Brunswick,1
+East Ridgefield,1
+Eatontown,1
+Evesham,1
+Fairlawn,1
+Flemington,1
+Florham Park,1
+Forked River,1
+Franklin Lakes,1
+Franklin TWP,1
+FREEHOLD,1
+Glen Ridge,1
+Glen Rock,1
+Gloucester Township,1
+Green Brook,1
+Haddonfield,1
+Hammonton,1
+Hasbrouck Heights,1
+Hillsborough,1
+Hillsdale,1
+Iselin,1
+Lincroft,1
+Linden,1
+Little Ferry,1
+Mahwah,1
+Manahawkin,1
+Manalapan,1
+Margate City,1
+Matawan,1
+Mays Landing,1
+Midland Park,1
+Millburn,1
+Milltown,1
+Montvale,1
+Morganville,1
+Morris Plains,1
+New Providence,1
+North Woodbridge,1
+Northvale,1
+Nutley,1
+Ocean,1
+Ocean Township,1
+Old Bridge,1
+Old Tappan,1
+PARAMUS,1
+Pennington,1
+Penns Grove,1
+Pennsgrove,1
+Pompton Lakes,1
+Red Bank,1
+Rio Grande,1
+Roseland,1
+Rutherford,1
+Sea Girt,1
+Short Hills,1
+Shorthills,1
+Somers Point,1
+South Brunswick,1
+South Orange,1
+South Plainfield,1
+Summit,1
+Tinton Falls,1
+Trenton,1
+Upper Montclair,1
+Vineland,1
+Voorhees,1
+Wall Township,1
+Watchung,1
+West Caldwell,1
+West New York,1
+Whitehouse Station,1
+Woodcliff Lake,1
+Wyckoff,1
+Yardville,1
+Alamogordo,1
+Aztec,1
+Bernalillo,1
+Cannon AFB,1
+Deming,1
+Gallup,1
+Los Lunas,1
+Ruidoso,1
+Boulder City,1
+Fallon,1
+Fernley,1
+Gardnerville,1
+Incline Village,1
+LAS VEGAS,1
+Minden,1
+N Las Vegas,1
+Nellis AFB,1
+Pahrump,1
+Wendover,1
+Zephyr Cove,1
+ALBANY,1
+Ardsley,1
+Babylon,1
+Baldwin Harbor,1
+Bayport,1
+Bayside,1
+Bellerose,1
+Bethpage,1
+Big Flats,1
+Blasdell,1
+Bohemia,1
+Briarcliff Manor,1
+Bridgehampton,1
+Bronxville,1
+BUFFALO,1
+Canandaigua,1
+Canastota,1
+Cedarhurst,1
+Central Islip,1
+Central Valley,1
+Chappaqua,1
+Clay,1
+Clifton Springs,1
+Copiague,1
+Cortlandt Manor,1
+Dobbs Ferry,1
+East Amherst,1
+east greenbush,1
+East Hampton,1
+East Setauket,1
+Elmira,1
+ELMONT,1
+Fishkill,1
+Fort Drum,1
+Franklin Square,1
+Fredonia,1
+FREEPORT,1
+Fresh Meadows,1
+Geneseo,1
+Glenmont,1
+Glenville,1
+Greenvale,1
+Guilderland,1
+Hampton Bays,1
+Hannacroix,1
+Hastings on Hudson,1
+Hauppauge,1
+Hewlett,1
+Howard Beach,1
+Irondequoit,1
+Island Park,1
+Islandia,1
+Islip,1
+Jackson Heights,1
+jamaica,1
+Jericho,1
+Kew Gardens,1
+Lake Placid,1
+Larchmont,1
+Little falls,1
+Little Neck,1
+Loudonville,1
+Lynbrook,1
+Malta,1
+Mamaroneck,1
+Manorville,1
+Mattituck,1
+Merrick,1
+Miller Place,1
+Mount Kisco,1
+Mt Kisco,1
+Nesconset,1
+New City,1
+Niskayuna,1
+North Babylon,1
+North Merrick,1
+Northport,1
+Nyack,1
+Oneonta,1
+Orchard Park,1
+Ossining,1
+Patchogue,1
+Pattersonville,1
+Penfield,1
+Pittsford,1
+Plainview,1
+Plattekill,1
+Plattsburg,1
+Plattsburgh,1
+Pleasantville,1
+Port Chester,1
+Port Jefferson,1
+Purchase,1
+Rensselaer,1
+Rhinebeck,1
+Rockville Center,1
+Ronkonkoma,1
+Roslyn Heights,1
+Ruby,1
+Rye,1
+Schenectady,1
+Scotia,1
+Selden,1
+Setauket,1
+Slingerlands,1
+Sloatsburg,1
+Smithtown,1
+Somers,1
+STONY BROOK,1
+Suffern,1
+Syosset,1
+SYRACUSE,1
+Tuckahoe,1
+Uniondale,1
+VICTOR,1
+W. Hempstead,1
+Wantagh,1
+West Babylon,1
+westmoreland,1
+WHITE PLAINS,1
+Whitestone,1
+Woodside,1
+Yorktown Heights,1
+AKRON,1
+Alliance,1
+Amelia,1
+Austintown,1
+AVON LAKE,1
+BEACHWOOD,1
+Boardman,1
+Brecksville,1
+Canal Winchester,1
+Canfield,1
+Chargrin Falls,1
+CINCINNATI,1
+CLEVELAND,1
+Cleves,1
+Delaware,1
+DELAWARE,1
+Elyria,1
+Fairborn,1
+Findlay,1
+Gahanna,1
+Garfield Heights,1
+Green,1
+Harrison,1
+HEATH,1
+Jeffersonville,1
+Kings Island,1
+Lewis,1
+Lewis Center,1
+Lorain,1
+Madeira,1
+Maineville,1
+Maumee,1
+Mt Orab,1
+Oregon,1
+Pataskala,1
+Poland,1
+Seville,1
+Sharonville,1
+South Euclid,1
+St Mary's,1
+TOLEDO,1
+Twinsburg,1
+Vandalia,1
+WAVERLY,1
+Woodmere,1
+Wooster,1
+Worthington,1
+Wright-Patterson AFB,1
+Youngstown,1
+Enid,1
+Fort Sill,1
+Glenpool,1
+Ponca City,1
+Sand Springs,1
+Warr Acres,1
+Coos Bay,1
+Cornelias,1
+Forest Grove,1
+forest grove,1
+Madras,1
+Molalla,1
+Oak Grove,1
+PORTLAND,1
+Prineville,1
+Scappoose,1
+Silverton,1
+St. Helens,1
+Stayton,1
+Sunriver,1
+Sweet Home,1
+TIGARD,1
+Bala Cynwyd,1
+Beaver,1
+Belle Vernon,1
+Bowmansville,1
+Breezewood,1
+Brookhaven,1
+Bryn Mawr,1
+Butler,1
+Canonsburg,1
+Chalfont,1
+Clarion,1
+Clarks Summit,1
+Collegeville,1
+Conshohocken,1
+Devon,1
+Dickson City,1
+Dresher,1
+East Norriton,1
+Edgemont,1
+ELVERSON,1
+Enola,1
+Fayette,1
+Feasterville,1
+Gettysburg,1
+HARRISBURG,1
+Haverton,1
+Havertown,1
+Hellertown,1
+HERSHEY,1
+Highspire,1
+Horsham,1
+Irwin,1
+Jamison,1
+Jenkintown,1
+Jim Thorpe,1
+Kennett Square,1
+Kutztown,1
+Lansdale,1
+Latrobe,1
+Lawn,1
+Lehigh Valley,1
+Lionville,1
+Lock Haven,1
+Lower Paxton,1
+Malvern,1
+Mechaicsburg,1
+Media,1
+Montgomeryville,1
+Moon Township,1
+Moosic,1
+Mount Pocono,1
+Muncy,1
+Murrysville,1
+New Kensington,1
+New Stanton,1
+Newburg,1
+Newtown Square,1
+Norristown,1
+North Huntingdon,1
+Oaks,1
+Paoli,1
+PITTSBURGH,1
+Pottstown,1
+Scotrun,1
+Scranton,1
+"Scranton,",1
+Shippensburg,1
+Slippery Rock,1
+Southeastern,1
+Springhouse,1
+STATE COLLEGE,1
+Stroudsburg,1
+Tarentum,1
+Trevose,1
+University Park,1
+Upper Darby,1
+Upper Southampton Township,1
+Verona,1
+Villanova,1
+Washington Township,1
+Waterfall,1
+West Grove,1
+West Lawn,1
+Wilkes Barre,1
+Wilkes-Barre,1
+Williamsport,1
+WILLOW GROVE,1
+Willow Grove,1
+Wyomissing,1
+Cranston,1
+East Greenwich,1
+N Kingstown,1
+PROVIDENCE,1
+WARWICK,1
+Beaufort,1
+Columbia NW,1
+Easley,1
+Ft. Mill,1
+Gaffney,1
+INMAN,1
+Irmo,1
+Johns Island,1
+Landrum,1
+Mt. Pleasant,1
+Murrells Inlet,1
+North Augusta,1
+North Myrtle Beach,1
+Pawleys Island,1
+Pickens,1
+Seneca,1
+Sumter,1
+Taylors,1
+W Columbia,1
+West Union,1
+Deadwood,1
+SIOUX FALLS,1
+Spearfish,1
+Yankton,1
+Crossville,1
+Fountain City,1
+Gatlinburg,1
+Goodletsville,1
+Harriman,1
+Jonesborough,1
+Knoxville West,1
+Lenoir City,1
+Lenor City,1
+Millington,1
+Mount Juliet,1
+NASHVILLE,1
+Oak Ridge,1
+Oakridge,1
+SPRING HILL,1
+Thompsons Station,1
+Atascocita,1
+austin,1
+Balcones Heights,1
+Bastrop,1
+Bellaire,1
+Benbrook,1
+Boerne,1
+Brenham,1
+Brownwood,1
+Buda,1
+Bulverde,1
+Canyon,1
+Cleburne,1
+Clute,1
+Converse,1
+Copperas Cove,1
+Corinth,1
+Crosby,1
+Cross Roads,1
+Crowley,1
+DALLAS,1
+Del Rio,1
+DeSoto,1
+Desoto,1
+Duncanville,1
+Ennis,1
+Forest Hill,1
+Fort Sam Houston,1
+FRIENDSWOOD,1
+Ft Worth,1
+Fulshear,1
+Haltom City,1
+Helotes,1
+Hickory Creek,1
+Hutto,1
+KATY,1
+Kerrville,1
+Kingsville,1
+Lacy Lakeview,1
+Lake Jackson,1
+LaPorte,1
+Levelland,1
+Lindale,1
+Live Oak,1
+Lucas,1
+Lufkin,1
+Manor,1
+Marble Falls,1
+Mercedes,1
+MIssouri City,1
+Nassau Bay,1
+Nederland,1
+New Braunfels,1
+NEW BRAUNFELS,1
+Pampa,1
+Pharr,1
+Port Arthur,1
+Porter,1
+Randolph AFB,1
+RICHARDSON,1
+Sachse,1
+SAN ANGELO,1
+SAN ANTONIO,1
+san antonio,1
+Schertz,1
+Seguin,1
+Shavano Park,1
+SPRING,1
+Stephenville,1
+The Colony,1
+Trophy Club,1
+Weslaco,1
+Willis,1
+Woodlands,1
+Woodway,1
+American Fork,1
+Brigham City,1
+Cedar City,1
+Clearfield,1
+Draper,1
+Eagle Mountain,1
+Fort Union,1
+Heber City,1
+Holladay,1
+Moab,1
+North Ogden,1
+Price,1
+RICHFIELD,1
+Riverton,1
+SALT LAKE CITY,1
+South Ogden,1
+South Salt Lake City,1
+Spanish Fork,1
+Taylorsville,1
+Tooele,1
+Vernal,1
+WEST JORDAN,1
+Aldie,1
+Broadlands,1
+Colonial Heights,1
+Dale City,1
+Doswell,1
+Dulles,1
+FALLS CHURCH,1
+Fort Eustis,1
+Fort Myer,1
+FREDERICKSBURG,1
+Hopewell,1
+King George,1
+Kingstowne,1
+Lake Ridge,1
+Lorton,1
+Mclean,1
+Merrifield,1
+MIDLOTHIAN,1
+Oakton,1
+Quantico,1
+Radford,1
+RICHMOND,1
+"Richmond,",1
+Rosslyn,1
+Short Pump,1
+South Riding,1
+Staunton,1
+Sterling Park,1
+Stony Creek,1
+Tabb,1
+VA Beach,1
+Wytheville,1
+Barre,1
+Bennington,1
+Williston,1
+Airway Heights,1
+Camas,1
+Carnation,1
+Chelan,1
+Colville,1
+Covingtion,1
+DuPont,1
+Dupont,1
+E Wenatchee,1
+Fairchild AFB,1
+Ferndale,1
+Fife,1
+Fort Lewis,1
+Frederickson,1
+Grandview,1
+"Kent,",1
+LACEY,1
+Liberty Lake,1
+Lynden,1
+LYNDEN,1
+LYNNWOOD,1
+MARYSVILLE,1
+McChord AFB,1
+MILTON,1
+N. Tacoma,1
+Napavine,1
+NEWPORT,1
+Normandy Park,1
+Omak,1
+Orting,1
+Pasco,1
+Port Hadlock,1
+Port Townsend,1
+Prosser,1
+PUYALLUP,1
+Ritzville,1
+Salmon Creek,1
+Seattlle,1
+Snoqualmie,1
+Spanaway,1
+TACOMA,1
+Toppenish,1
+Tulalip,1
+W. Richland,1
+WALLA WALLA,1
+Ashwaubenon,1
+Beloit,1
+Cedarburg,1
+De Pere,1
+Delavan,1
+Fond Du Lac,1
+Fox Point,1
+Grand Chute,1
+Hales Corners,1
+Lake Delton,1
+Manitowoc,1
+Mequon,1
+Monona,1
+Muskego,1
+Neenah,1
+Oconomowoc,1
+Onalaska,1
+Plover,1
+Stevens Point,1
+Sturgeon Bay,1
+Sussex,1
+Tomah,1
+WAUKESHA,1
+WAUWATOSA,1
+West Bend,1
+Whitefish Bay,1
+Wisconsin Dells,1
+Burnwell,1
+Snowshoe,1
+South Charleston,1
+Valley Grove,1
+Weirton,1
+Cody,1
+Jackson Hole,1
+Lander,1
+Rock Springs,1
+Sheridian,1
+Johannesburg,1
+Menlyn,1
+Midrand,1
